@@ -1,8 +1,8 @@
-paper_name = 'CoT-Valve: Length-Compressible Chain-of-Thought Tuning'
-paper_url = 'https://arxiv.org/abs/2502.09601'
-github_url = 'https://github.com/horseee/CoT-Valve'
-author_name = 'Xinyin Ma, Guangnian Wan, Runpeng Yu, Gongfan Fang, Xinchao Wang'
-image_path = 'figures/{}.png'.format('cot_valve')
+paper_name = ''
+paper_url = ''
+github_url = ''
+author_name = ''
+image_path = 'figures/{}.png'.format('')
 conference = ""
 
 star_format = '[![Star](https://img.shields.io/github/stars/{}.svg?style=social&label=Star)](https://github.com/{})'
