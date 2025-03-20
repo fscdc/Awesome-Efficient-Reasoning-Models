@@ -1,17 +1,21 @@
-# Awesome-Chain-Compression
+# Awesome-Efficient-LRM
 
-A curated list for **Chain Compression**
+A curated list for **Efficient Large Reasoning Model (LRM)**. 
 
+Efficient LRM is a new research direction that aims to develop large reasoning models with high efficiency. The goal is to reduce the cost of reasoning models while maintaining or even improving their performance.
 
 
 ### Updates
 
-- 2025-03-16: Initial version
 
-
+- 2025-03-16: We have added the first batch of papers to the list.
 
 ### Full list
 
+
+
+
+#### Chain Compression
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
 |[![Star](https://img.shields.io/github/stars/horseee/CoT-Valve.svg?style=social&label=Star)](https://github.com/horseee/CoT-Valve)<br>[CoT-Valve: Length-Compressible Chain-of-Thought Tuning](https://arxiv.org/abs/2502.09601) <br> Xinyin Ma, Guangnian Wan, Runpeng Yu, Gongfan Fang, Xinchao Wang |<img width="1002" alt="image" src="figures/cot_valve.png"> |[Github](https://github.com/horseee/CoT-Valve) <br> [Paper](https://arxiv.org/abs/2502.09601)|[//]: #03/16
@@ -22,9 +26,11 @@ A curated list for **Chain Compression**
 |[Distilling System 2 into System 1](https://arxiv.org/abs/2407.06023) <br> Ping Yu, Jing Xu, Jason Weston, Ilia Kulikov |<img width="1002" alt="image" src="figures/distill_sys1_sys2.png"> |[Paper](https://arxiv.org/abs/2407.06023)|[//]: #03/16
 |[![Star](https://img.shields.io/github/stars/hemingkx/TokenSkip.svg?style=social&label=Star)](https://github.com/hemingkx/TokenSkip)<br>[TokenSkip: Controllable Chain-of-Thought Compression in LLMs](https://arxiv.org/abs/2502.12067) <br> Heming Xia, Yongqi Li, Chak Tou Leong, Wenjie Wang, Wenjie Li |<img width="1002" alt="image" src="figures/TokenSkip.png"> |[Github](https://github.com/hemingkx/TokenSkip) <br> [Paper](https://arxiv.org/abs/2502.12067)|[//]: #03/20
 
-#### Technical Reports
+##### Technical Reports
 
 * [Kimi k1.5: Scaling Reinforcement Learning with LLMs](https://arxiv.org/abs/2501.12599). Kimi Team. [[Paper]](https://arxiv.org/abs/2501.12599)
+
+
 
 
 
