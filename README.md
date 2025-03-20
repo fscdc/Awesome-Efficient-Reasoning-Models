@@ -20,7 +20,7 @@ A curated list for **Chain Compression**
 |[![Publish](https://img.shields.io/badge/Conference-AAAI-blue)]()<br>[C3oT: Generating Shorter Chain-of-Thought without Compromising Effectiveness](https://arxiv.org/abs/2412.11664) <br> Yu Kang, Xianghui Sun, Liangyu Chen, Wei Zou |<img width="1002" alt="image" src="figures/co3t.png"> |[Paper](https://arxiv.org/abs/2412.11664)|[//]: #03/16
 |[![Star](https://img.shields.io/github/stars/tengxiaoliu/LM_skip.svg?style=social&label=Star)](https://github.com/tengxiaoliu/LM_skip)[![Publish](https://img.shields.io/badge/Conference-NIPS-blue)]()<br>[Can Language Models Learn to Skip Steps?](https://arxiv.org/abs/2411.01855) <br> Tengxiao Liu, Qipeng Guo, Xiangkun Hu, Cheng Jiayang, Yue Zhang, Xipeng Qiu, Zheng Zhang |<img width="1002" alt="image" src="figures/skip_step.png"> |[Github](https://github.com/tengxiaoliu/LM_skip) <br> [Paper](https://arxiv.org/abs/2411.01855)|[//]: #03/16
 |[Distilling System 2 into System 1](https://arxiv.org/abs/2407.06023) <br> Ping Yu, Jing Xu, Jason Weston, Ilia Kulikov |<img width="1002" alt="image" src="figures/distill_sys1_sys2.png"> |[Paper](https://arxiv.org/abs/2407.06023)|[//]: #03/16
-
+|[![Star](https://img.shields.io/github/stars/hemingkx/TokenSkip.svg?style=social&label=Star)](https://github.com/hemingkx/TokenSkip)<br>[TokenSkip: Controllable Chain-of-Thought Compression in LLMs](https://arxiv.org/abs/2502.12067) <br> Heming Xia, Yongqi Li, Chak Tou Leong, Wenjie Wang, Wenjie Li |<img width="1002" alt="image" src="figures/TokenSkip.png"> |[Github](https://github.com/hemingkx/TokenSkip) <br> [Paper](https://arxiv.org/abs/2502.12067)|[//]: #03/20
 
 #### Technical Reports
 
