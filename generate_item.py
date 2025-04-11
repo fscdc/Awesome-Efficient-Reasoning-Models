@@ -6,7 +6,7 @@ image_path = 'figures/{}.png'.format('')
 conference = ""
 
 star_format = '[![Star](https://img.shields.io/github/stars/{}.svg?style=social&label=Star)](https://github.com/{})'
-conference_format = "[![Publish](https://img.shields.io/badge/Conference-{}-blue)]()"
+conference_format = " [![Publish](https://img.shields.io/badge/Conference-{}-blue)]()"
 
 markdown_type = 'simple'
 final_str = "* "
