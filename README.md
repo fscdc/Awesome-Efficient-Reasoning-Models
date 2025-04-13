@@ -46,7 +46,7 @@ This repository is for our paper:
 
 
 - 2025-04-11: 📚 The full paper list is now available and our survey is coming soon!
-- 2025-04-11: 🚀 Efficient Reasoning Repo launched! We'll keep updating the list regularly.
+- 2025-03-16: 🚀 Efficient Reasoning Repo launched!
 
 
 ## Full list
