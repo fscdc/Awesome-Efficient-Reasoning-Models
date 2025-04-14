@@ -38,7 +38,7 @@ This repository is for our paper:
 > 🌟 If you find this resource helpful, please consider to star this repository and cite our [research](#citation)!
 
 <p align="center">
-<img src="figures_self/figure2.svg" height = "210" alt="" align=center />
+<img src="figures_self/figure2.svg" height = "280" alt="" align=center />
 </p>
 
 
