@@ -59,8 +59,8 @@ This repository is for our paper:
 
 ### Quick Links
   - [Make Long CoT Short](#Make-Long-CoT-Short)
-    - [RL-based Methods](#RL-based-Methods)
     - [SFT-based Methods](#SFT-based-Methods)
+    - [RL-based Methods](#RL-based-Methods)
     - [Prompt-driven Methods](#Prompt-driven-Methods)
     - [Latent Reasoning](#Latent-Reasoning)
   - [Build SLM with Strong Reasoning Ability](#Build-SLM-with-Strong-Reasoning-Ability)
@@ -76,6 +76,19 @@ This repository is for our paper:
 
 ### Make Long CoT Short
 
+#### SFT-based Methods
+| Title & Authors | Introduction | Links |
+|:--|  :----: | :---:|
+|[![Star](https://img.shields.io/github/stars/horseee/CoT-Valve.svg?style=social&label=Star)](https://github.com/horseee/CoT-Valve)<br>[CoT-Valve: Length-Compressible Chain-of-Thought Tuning](https://arxiv.org/abs/2502.09601) <br> Xinyin Ma, Guangnian Wan, Runpeng Yu, Gongfan Fang, Xinchao Wang |<img width="1002" alt="image" src="figures/cot_valve.png"> |[Github](https://github.com/horseee/CoT-Valve) <br> [Paper](https://arxiv.org/abs/2502.09601)|[//]: #03/16
+|[![Publish](https://img.shields.io/badge/Conference-AAAI-blue)]()<br>[C3oT: Generating Shorter Chain-of-Thought without Compromising Effectiveness](https://arxiv.org/abs/2412.11664) <br> Yu Kang, Xianghui Sun, Liangyu Chen, Wei Zou |<img width="1002" alt="image" src="figures/co3t.png"> |[Paper](https://arxiv.org/abs/2412.11664)|[//]: #03/16
+|[![Star](https://img.shields.io/github/stars/tengxiaoliu/LM_skip.svg?style=social&label=Star)](https://github.com/tengxiaoliu/LM_skip) [![Publish](https://img.shields.io/badge/Conference-NIPS-blue)]()<br>[Can Language Models Learn to Skip Steps?](https://arxiv.org/abs/2411.01855) <br> Tengxiao Liu, Qipeng Guo, Xiangkun Hu, Cheng Jiayang, Yue Zhang, Xipeng Qiu, Zheng Zhang |<img width="1002" alt="image" src="figures/skip_step.png"> |[Github](https://github.com/tengxiaoliu/LM_skip) <br> [Paper](https://arxiv.org/abs/2411.01855)|[//]: #03/16
+|[Distilling System 2 into System 1](https://arxiv.org/abs/2407.06023) <br> Ping Yu, Jing Xu, Jason Weston, Ilia Kulikov |<img width="1002" alt="image" src="figures/distill_sys1_sys2.png"> |[Paper](https://arxiv.org/abs/2407.06023)|[//]: #03/16
+|[![Star](https://img.shields.io/github/stars/hemingkx/TokenSkip.svg?style=social&label=Star)](https://github.com/hemingkx/TokenSkip)<br>[TokenSkip: Controllable Chain-of-Thought Compression in LLMs](https://arxiv.org/abs/2502.12067) <br> Heming Xia, Yongqi Li, Chak Tou Leong, Wenjie Wang, Wenjie Li |<img width="1002" alt="image" src="figures/TokenSkip.png"> |[Github](https://github.com/hemingkx/TokenSkip) <br> [Paper](https://arxiv.org/abs/2502.12067)|[//]: #03/20
+|[Stepwise Perplexity-Guided Refinement for Efficient Chain-of-Thought Reasoning in Large Language Models](https://arxiv.org/abs/2502.13260) <br> Yingqian Cui, Pengfei He, Jingying Zeng, Hui Liu, Xianfeng Tang, Zhenwei Dai, Yan Han, Chen Luo, Jing Huang, Zhen Li, Suhang Wang, Yue Xing, Jiliang Tang, Qi He |<img width="1002" alt="image" src="figures/spirit.png"> |[Paper](https://arxiv.org/abs/2502.13260)| [//]: #04/08
+|[Towards Thinking-Optimal Scaling of Test-Time Compute for LLM Reasoning](https://arxiv.org/abs/2502.18080) <br> Wenkai Yang, Shuming Ma, Yankai Lin, Furu Wei |<img width="1002" alt="image" src="figures/thinking_optimal_scaling.png"> |[Paper](https://arxiv.org/abs/2502.18080)| [//]: #04/08
+|[![Star](https://img.shields.io/github/stars/TergelMunkhbat/concise-reasoning.svg?style=social&label=Star)](https://github.com/TergelMunkhbat/concise-reasoning)<br>[Self-Training Elicits Concise Reasoning in Large Language Models](https://arxiv.org/abs/2502.20122) <br> Tergel Munkhbat, Namgyu Ho, Seo Hyun Kim, Yongjin Yang, Yujin Kim, Se-Young Yun |<img width="1002" alt="image" src="figures/self_training.png"> |[Github](https://github.com/TergelMunkhbat/concise-reasoning) <br> [Paper](https://arxiv.org/abs/2502.20122)| [//]: #04/08
+|[![Star](https://img.shields.io/github/stars/GeniusHTX/TALE.svg?style=social&label=Star)](https://github.com/GeniusHTX/TALE)<br>[Token-Budget-Aware LLM Reasoning](https://arxiv.org/abs/2412.18547) <br> Tingxu Han, Zhenting Wang, Chunrong Fang, Shiyu Zhao, Shiqing Ma, Zhenyu Chen |<img width="1002" alt="image" src="figures/tale.png"> |[Github](https://github.com/GeniusHTX/TALE) <br> [Paper](https://arxiv.org/abs/2412.18547)| [//]: #04/08
+
 
 #### RL-based Methods
 | Title & Authors | Introduction | Links |
@@ -90,18 +103,7 @@ This repository is for our paper:
 |[![Star](https://img.shields.io/github/stars/UCSB-NLP-Chang/ThinkPrune.svg?style=social&label=Star)](https://github.com/UCSB-NLP-Chang/ThinkPrune)<br>[ThinkPrune: Pruning Long Chain-of-Thought of LLMs via Reinforcement Learning](https://arxiv.org/abs/2504.01296) <br> Bairu Hou, Yang Zhang, Jiabao Ji, Yujian Liu, Kaizhi Qian, Jacob Andreas, Shiyu Chang |<img width="1002" alt="image" src="figures/thinkprune.png"> |[Github](https://github.com/UCSB-NLP-Chang/ThinkPrune) <br> [Paper](https://arxiv.org/abs/2504.01296)| [//]: #04/08
 |[Think When You Need: Self-Adaptive Chain-of-Thought Learning](https://arxiv.org/abs/2504.03234) <br> Junjie Yang, Ke Lin, Xing Yu |<img width="1002" alt="image" src="figures/think_when_need.png"> |[Paper](https://arxiv.org/abs/2504.03234)| [//]: #04/08
 
-#### SFT-based Methods
-| Title & Authors | Introduction | Links |
-|:--|  :----: | :---:|
-|[![Star](https://img.shields.io/github/stars/horseee/CoT-Valve.svg?style=social&label=Star)](https://github.com/horseee/CoT-Valve)<br>[CoT-Valve: Length-Compressible Chain-of-Thought Tuning](https://arxiv.org/abs/2502.09601) <br> Xinyin Ma, Guangnian Wan, Runpeng Yu, Gongfan Fang, Xinchao Wang |<img width="1002" alt="image" src="figures/cot_valve.png"> |[Github](https://github.com/horseee/CoT-Valve) <br> [Paper](https://arxiv.org/abs/2502.09601)|[//]: #03/16
-|[![Publish](https://img.shields.io/badge/Conference-AAAI-blue)]()<br>[C3oT: Generating Shorter Chain-of-Thought without Compromising Effectiveness](https://arxiv.org/abs/2412.11664) <br> Yu Kang, Xianghui Sun, Liangyu Chen, Wei Zou |<img width="1002" alt="image" src="figures/co3t.png"> |[Paper](https://arxiv.org/abs/2412.11664)|[//]: #03/16
-|[![Star](https://img.shields.io/github/stars/tengxiaoliu/LM_skip.svg?style=social&label=Star)](https://github.com/tengxiaoliu/LM_skip) [![Publish](https://img.shields.io/badge/Conference-NIPS-blue)]()<br>[Can Language Models Learn to Skip Steps?](https://arxiv.org/abs/2411.01855) <br> Tengxiao Liu, Qipeng Guo, Xiangkun Hu, Cheng Jiayang, Yue Zhang, Xipeng Qiu, Zheng Zhang |<img width="1002" alt="image" src="figures/skip_step.png"> |[Github](https://github.com/tengxiaoliu/LM_skip) <br> [Paper](https://arxiv.org/abs/2411.01855)|[//]: #03/16
-|[Distilling System 2 into System 1](https://arxiv.org/abs/2407.06023) <br> Ping Yu, Jing Xu, Jason Weston, Ilia Kulikov |<img width="1002" alt="image" src="figures/distill_sys1_sys2.png"> |[Paper](https://arxiv.org/abs/2407.06023)|[//]: #03/16
-|[![Star](https://img.shields.io/github/stars/hemingkx/TokenSkip.svg?style=social&label=Star)](https://github.com/hemingkx/TokenSkip)<br>[TokenSkip: Controllable Chain-of-Thought Compression in LLMs](https://arxiv.org/abs/2502.12067) <br> Heming Xia, Yongqi Li, Chak Tou Leong, Wenjie Wang, Wenjie Li |<img width="1002" alt="image" src="figures/TokenSkip.png"> |[Github](https://github.com/hemingkx/TokenSkip) <br> [Paper](https://arxiv.org/abs/2502.12067)|[//]: #03/20
-|[Stepwise Perplexity-Guided Refinement for Efficient Chain-of-Thought Reasoning in Large Language Models](https://arxiv.org/abs/2502.13260) <br> Yingqian Cui, Pengfei He, Jingying Zeng, Hui Liu, Xianfeng Tang, Zhenwei Dai, Yan Han, Chen Luo, Jing Huang, Zhen Li, Suhang Wang, Yue Xing, Jiliang Tang, Qi He |<img width="1002" alt="image" src="figures/spirit.png"> |[Paper](https://arxiv.org/abs/2502.13260)| [//]: #04/08
-|[Towards Thinking-Optimal Scaling of Test-Time Compute for LLM Reasoning](https://arxiv.org/abs/2502.18080) <br> Wenkai Yang, Shuming Ma, Yankai Lin, Furu Wei |<img width="1002" alt="image" src="figures/thinking_optimal_scaling.png"> |[Paper](https://arxiv.org/abs/2502.18080)| [//]: #04/08
-|[![Star](https://img.shields.io/github/stars/TergelMunkhbat/concise-reasoning.svg?style=social&label=Star)](https://github.com/TergelMunkhbat/concise-reasoning)<br>[Self-Training Elicits Concise Reasoning in Large Language Models](https://arxiv.org/abs/2502.20122) <br> Tergel Munkhbat, Namgyu Ho, Seo Hyun Kim, Yongjin Yang, Yujin Kim, Se-Young Yun |<img width="1002" alt="image" src="figures/self_training.png"> |[Github](https://github.com/TergelMunkhbat/concise-reasoning) <br> [Paper](https://arxiv.org/abs/2502.20122)| [//]: #04/08
-|[![Star](https://img.shields.io/github/stars/GeniusHTX/TALE.svg?style=social&label=Star)](https://github.com/GeniusHTX/TALE)<br>[Token-Budget-Aware LLM Reasoning](https://arxiv.org/abs/2412.18547) <br> Tingxu Han, Zhenting Wang, Chunrong Fang, Shiyu Zhao, Shiqing Ma, Zhenyu Chen |<img width="1002" alt="image" src="figures/tale.png"> |[Github](https://github.com/GeniusHTX/TALE) <br> [Paper](https://arxiv.org/abs/2412.18547)| [//]: #04/08
+
 
 #### Prompt-driven Methods
 
