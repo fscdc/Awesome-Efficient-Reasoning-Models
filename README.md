@@ -1,7 +1,7 @@
 <div align="center">
 
-  <h2><b> Efficient Reasoning: A Survey </b></h2>
-  <h4> An overview of research in efficient reasoning </h4>
+  <h2><b> Efficient Reasoning Models: A Survey </b></h2>
+  <h4> An overview of research in efficient reasoning models</h4>
 
 </div>
 
@@ -25,7 +25,7 @@
 
 This repository is for our paper:
 
-> **[Efficient Reasoning: A Survey]()** \
+> **[Efficient Reasoning Models: A Survey]()** \
 > [Sicheng Feng](https://fscdc.github.io/)<sup>1,2</sup>, [Gongfan Fang](https://fangggf.github.io/)<sup>1</sup>, [Xinyin Ma](https://horseee.github.io/)<sup>1</sup>, [Xinchao Wang](https://sites.google.com/site/sitexinchaowang/)<sup>1,*</sup> \
 > <sup>1</sup>National University of Singapore, Singapore \
 > <sup>2</sup>Nankai University, Tianjin, China \
