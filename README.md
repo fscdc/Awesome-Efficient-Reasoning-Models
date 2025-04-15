@@ -39,7 +39,7 @@ This repository is for our paper:
 > 🌟 If you find this resource helpful, please consider to star this repository and cite our [research](#citation)!
 
 <p align="center">
-<img src="assets/figure2.svg" height = "280" alt="" align=center />
+<img src="assets/figure2.svg" width = "95%" alt="" align=center />
 </p>
 
 
@@ -59,7 +59,7 @@ This repository is for our paper:
 
 ---
 <p align="center">
-<img src="assets/taxonomy.png" height = "550" alt="" align=center />
+<img src="assets/taxonomy.png" width = "95%" alt="" align=center />
 </p>
 
 ### Quick Links
