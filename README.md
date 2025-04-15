@@ -11,7 +11,8 @@
 ![](https://img.shields.io/github/stars/fscdc/Awesome-Efficient-Reasoning-Models?color=yellow)
 ![](https://img.shields.io/github/forks/fscdc/Awesome-Efficient-Reasoning-Models?color=lightblue)
 ![](https://img.shields.io/github/last-commit/fscdc/Awesome-Efficient-Reasoning-Models?color=green)
-![](https://img.shields.io/badge/PRs-Welcome-green)
+![](https://img.shields.io/badge/PRs-Welcome-blue)
+<a href="https://arxiv.org/abs/Coming Soon" target="_blank"><img src="https://img.shields.io/badge/arXiv-Coming Soon-009688.svg" alt="arXiv"></a>
 
 </div>
 
