@@ -8,9 +8,9 @@
 
 <div align="center">
 
-![](https://img.shields.io/github/stars/fscdc/Awesome-Efficient-Reasoning?color=yellow)
-![](https://img.shields.io/github/forks/fscdc/Awesome-Efficient-Reasoning?color=lightblue)
-![](https://img.shields.io/github/last-commit/fscdc/Awesome-Efficient-Reasoning?color=green)
+![](https://img.shields.io/github/stars/fscdc/Awesome-Efficient-Reasoning-Models?color=yellow)
+![](https://img.shields.io/github/forks/fscdc/Awesome-Efficient-Reasoning-Models?color=lightblue)
+![](https://img.shields.io/github/last-commit/fscdc/Awesome-Efficient-Reasoning-Models?color=green)
 ![](https://img.shields.io/badge/PRs-Welcome-green)
 
 </div>
