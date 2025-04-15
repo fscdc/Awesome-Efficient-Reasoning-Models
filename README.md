@@ -58,7 +58,7 @@ This repository is for our paper:
 
 ---
 <p align="center">
-<img src="figures_self/taxonomy.png" height = "450" alt="" align=center />
+<img src="figures_self/taxonomy.png" height = "500" alt="" align=center />
 </p>
 
 ### Quick Links
