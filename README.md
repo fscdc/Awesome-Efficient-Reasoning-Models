@@ -56,6 +56,10 @@ This repository is for our paper:
 >
 > If you want to add your paper or update details like conference info or code URLs, please submit a pull request. You can generate the necessary markdown for each paper by filling out `generate_item.py` and running `python generate_item.py`. We greatly appreciate your contributions. Alternatively, you can email me ([Gmail](fscnkucs@gmail.com)) the links to your paper and code, and I will add your paper to the list as soon as possible.
 
+---
+<p align="center">
+<img src="figures_self/taxonomy.png" height = "350" alt="" align=center />
+</p>
 
 ### Quick Links
   - [Make Long CoT Short](#Make-Long-CoT-Short)
@@ -72,6 +76,9 @@ This repository is for our paper:
     - [Other Optimal Methods](#Other-Optimal-Methods)
   - [Evaluation and Benchmarks](#Evaluation-and-Benchmarks)
   - [Background Papers](#Background-Papers)
+
+
+
 
 
 ### Make Long CoT Short
