@@ -3,7 +3,6 @@ paper_url = ''
 github_url = ''
 author_name = ''
 image_path = 'figures/{}.png'.format('')
-
 conference = ""
 
 star_format = '[![Star](https://img.shields.io/github/stars/{}.svg?style=social&label=Star)](https://github.com/{})'
@@ -59,4 +58,3 @@ day = time.strftime("%d", time.localtime())
 final_str += '|'
 final_str += f"[//]: #{month}/{day}"
 print(final_str)
-
