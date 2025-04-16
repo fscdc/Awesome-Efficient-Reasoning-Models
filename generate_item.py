@@ -58,4 +58,3 @@ day = time.strftime("%d", time.localtime())
 final_str += '|'
 final_str += f"[//]: #{month}/{day}"
 print(final_str)
-
