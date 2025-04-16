@@ -12,13 +12,13 @@
 ![](https://img.shields.io/github/forks/fscdc/Awesome-Efficient-Reasoning-Models?color=lightblue)
 ![](https://img.shields.io/github/last-commit/fscdc/Awesome-Efficient-Reasoning-Models?color=green)
 ![](https://img.shields.io/badge/PRs-Welcome-blue)
-<a href="https://arxiv.org/abs/Coming Soon" target="_blank"><img src="https://img.shields.io/badge/arXiv-Coming Soon-009688.svg" alt="arXiv"></a>
+<a href="https://arxiv.org/abs/2504.10903" target="_blank"><img src="https://img.shields.io/badge/arXiv-online!-009688.svg" alt="arXiv"></a>
 
 </div>
 
 <div align="center">
 
-**[<a href="">Arxiv</a>]** 
+**[<a href="https://arxiv.org/abs/2504.10903">arXiv</a>]** 
 
 </div>
 
@@ -26,7 +26,7 @@
 
 This repository is for our paper:
 
-> **[Efficient Reasoning Models: A Survey]()** \
+> **[Efficient Reasoning Models: A Survey](https://arxiv.org/abs/2504.10903)** \
 > [Sicheng Feng](https://fscdc.github.io/)<sup>1,2</sup>, [Gongfan Fang](https://fangggf.github.io/)<sup>1</sup>, [Xinyin Ma](https://horseee.github.io/)<sup>1</sup>, [Xinchao Wang](https://sites.google.com/site/sitexinchaowang/)<sup>1,*</sup> \
 > <sup>1</sup>National University of Singapore, Singapore \
 > <sup>2</sup>Nankai University, Tianjin, China \
@@ -45,7 +45,7 @@ This repository is for our paper:
 
 ## Updates
 
-
+- 2025-04-16: 📝 The survey is now available on [arXiv](https://arxiv.org/abs/2504.10903)!
 - 2025-04-11: 📚 The full paper list is now available and our survey is coming soon!
 - 2025-03-16: 🚀 Efficient Reasoning Repo launched!
 
@@ -300,9 +300,9 @@ This repository is inspired by [Awesome-Efficient-LLM](https://github.com/horsee
 
 ```bibtex
 @article{,
-    title={},
-    author={},
-    journal={arXiv preprint arXiv:},
+    title={Efficient Reasoning Models: A Survey},
+    author={Feng, Sicheng and Fang, Gongfan and Ma, Xinyin and Wang, Xinchao},
+    journal={arXiv preprint arXiv:2504.10903},
     year={2025},
 }
 ```
