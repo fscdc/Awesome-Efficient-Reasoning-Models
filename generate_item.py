@@ -1,9 +1,8 @@
-paper_name = 'Weight-of-Thought Reasoning: Exploring Neural Network Weights for Enhanced LLM Reasoning'
-paper_url = 'https://arxiv.org/abs/2504.10646'
+paper_name = ''
+paper_url = ''
 github_url = ''
-author_name = 'Saif Punjwani, Larry Heck'
-# image_path = 'figures/{}.png'.format('')
-image_path = 'https://arxiv.org/html/2504.10646v1/extracted/6355099/cotvswot.png'
+author_name = ''
+image_path = 'figures/{}.png'.format('')
 
 conference = ""
 
