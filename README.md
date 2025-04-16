@@ -12,7 +12,7 @@
 ![](https://img.shields.io/github/forks/fscdc/Awesome-Efficient-Reasoning-Models?color=lightblue)
 ![](https://img.shields.io/github/last-commit/fscdc/Awesome-Efficient-Reasoning-Models?color=green)
 ![](https://img.shields.io/badge/PRs-Welcome-blue)
-<a href="https://arxiv.org/abs/2504.10903" target="_blank"><img src="https://img.shields.io/badge/arXiv-online!-009688.svg" alt="arXiv"></a>
+<a href="https://arxiv.org/abs/2504.10903" target="_blank"><img src="https://img.shields.io/badge/arXiv-2504.10903-009688.svg" alt="arXiv"></a>
 
 </div>
 
