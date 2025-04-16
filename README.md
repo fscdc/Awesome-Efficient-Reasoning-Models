@@ -18,7 +18,7 @@
 
 <div align="center">
 
-**[<a href="https://arxiv.org/abs/2504.10903">arXiv</a>]** 
+**[<a href="https://arxiv.org/abs/2504.10903">arXiv</a>]** **[<a href="https://huggingface.co/papers/2504.10903">HuggingFace</a>]**
 
 </div>
 
