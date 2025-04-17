@@ -1,8 +1,8 @@
-paper_name = 'Beyond Chains of Thought: Benchmarking Latent-Space Reasoning Abilities in Large Language Models'
-paper_url = 'https://arxiv.org/abs/2504.10615'
+paper_name = ''
+paper_url = ''
 github_url = ''
-author_name = 'Thilo Hagendorff, Sarah Fabi'
-image_path = './figures/BCoT.png'.format('')
+author_name = ''
+image_path = 'figures/{}.png'.format('')
 conference = ""
 
 star_format = '[![Star](https://img.shields.io/github/stars/{}.svg?style=social&label=Star)](https://github.com/{})'
