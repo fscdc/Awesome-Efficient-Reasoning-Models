@@ -267,9 +267,10 @@ This repository is for our paper:
 |[![Star](https://img.shields.io/github/stars/open-compass/GPassK.svg?style=social&label=Star)](https://github.com/open-compass/GPassK)<br>[Are Your LLMs Capable of Stable Reasoning?](https://arxiv.org/abs/2412.13147) <br> Junnan Liu, Hongwei Liu, Linchen Xiao, Ziyi Wang, Kuikun Liu, Songyang Gao, Wenwei Zhang, Songyang Zhang, Kai Chen |<img width="1002" alt="image" src="https://arxiv.org/html/2412.13147v3/x1.png"> |[Github](https://github.com/open-compass/GPassK) <br> [Paper](https://arxiv.org/abs/2412.13147)| [//]: #04/08
 
 
-#### Benchmark
+#### Benchmarks and Datasets
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
+|[LongPerceptualThoughts: Distilling System-2 Reasoning for System-1 Perception](https://arxiv.org/abs/2504.15362) <br> Yuan-Hong Liao, Sven Elflein, Liu He, Laura Leal-Taixé, Yejin Choi, Sanja Fidler, David Acuna |<img width="1002" alt="image" src="https://arxiv.org/html/2504.15362v1/x1.png"> |[Paper](https://arxiv.org/abs/2504.15362)| [//]: #04/23
 |[THOUGHTTERMINATOR: Benchmarking, Calibrating, and Mitigating Overthinking in Reasoning Models](https://arxiv.org/abs/2504.13367) <br> Xiao Pu, Michael Saxon, Wenyue Hua, William Yang Wang |<img width="1002" alt="image" src="https://arxiv.org/html/2504.13367v1/x2.png"> |[Paper](https://arxiv.org/abs/2504.13367)| [//]: #04/21
 |[Do NOT Think That Much for 2+3=? On the Overthinking of o1-Like LLMs](https://arxiv.org/abs/2412.21187) <br> Xingyu Chen, Jiahao Xu, Tian Liang, Zhiwei He, Jianhui Pang, Dian Yu, Linfeng Song, Qiuzhi Liu, Mengfei Zhou, Zhuosheng Zhang, Rui Wang, Zhaopeng Tu, Haitao Mi, Dong Yu |<img width="1002" alt="image" src="https://arxiv.org/html/2412.21187v2/x2.png"> |[Paper](https://arxiv.org/abs/2412.21187)|[//]: #03/16
 |[The Danger of Overthinking: Examining the Reasoning-Action Dilemma in Agentic Tasks](https://arxiv.org/abs/2502.08235) <br> Alejandro Cuadron, Dacheng Li, Wenjie Ma, Xingyao Wang, Yichuan Wang, Siyuan Zhuang, Shu Liu, Luis Gaspar Schroeder, Tian Xia, Huanzhi Mao, Nicholas Thumiger, Aditya Desai, Ion Stoica, Ana Klimovic, Graham Neubig, Joseph E. Gonzalez |<img width="1002" alt="image" src="figures/openhands.png"> |[Paper](https://arxiv.org/abs/2502.08235)| [//]: #04/08
