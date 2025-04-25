@@ -71,12 +71,13 @@ This repository is for our paper:
   - [Build SLM with Strong Reasoning Ability](#Build-SLM-with-Strong-Reasoning-Ability)
     - [Distillation](#Distillation)
     - [Quantization and Pruning](#Quantization-and-Pruning)
-    - [RL-based Methods](#RL-based-Methods)
+    - [RL+SLM Methods](#rlslm-methods)
   - [Let Decoding More Efficient](#Let-Decoding-More-Efficient)
     - [Efficient TTS](#Efficient-TTS)
     - [Other Optimal Methods](#Other-Optimal-Methods)
   - [Evaluation and Benchmarks](#Evaluation-and-Benchmarks)
   - [Background Papers](#Background-Papers)
+  - [Competition](#Competition)
 
 
 
@@ -199,9 +200,10 @@ This repository is for our paper:
 
 
 
-#### RL-based Methods
+#### RL+SLM Methods
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
+|[![Star](https://img.shields.io/github/stars/shangshang-wang/Tina.svg?style=social&label=Star)](https://github.com/shangshang-wang/Tina)<br>[Tina: Tiny Reasoning Models via LoRA](https://arxiv.org/abs/2504.15777) <br> Shangshang Wang, Julian Asilis, Ömer Faruk Akgül, Enes Burak Bilgin, Ollie Liu, Willie Neiswanger |<img width="1002" alt="image" src="https://arxiv.org/html/2504.15777v1/x4.png"> |[Github](https://github.com/shangshang-wang/Tina) <br> [Paper](https://arxiv.org/abs/2504.15777)| [//]: #04/25
 |[![Star](https://img.shields.io/github/stars/knoveleng/open-rs.svg?style=social&label=Star)](https://github.com/knoveleng/open-rs)<br>[Reinforcement Learning for Reasoning in Small LLMs: What Works and What Doesn't](https://arxiv.org/abs/2503.16219) <br> Quy-Anh Dang, Chris Ngo |<img src="https://arxiv.org/html/2503.16219v1/extracted/6296504/images/pass1.png" width="45%"> <img src="https://arxiv.org/html/2503.16219v1/extracted/6296504/images/costs.png" width="45%"> |[Github](https://github.com/knoveleng/open-rs) <br> [Paper](https://arxiv.org/abs/2503.16219)| [//]: #04/08
 |[![Star](https://img.shields.io/github/stars/hkust-nlp/simpleRL-reason.svg?style=social&label=Star)](https://github.com/hkust-nlp/simpleRL-reason)<br>[SimpleRL-Zoo: Investigating and Taming Zero Reinforcement Learning for Open Base Models in the Wild](https://arxiv.org/abs/2503.18892) <br> Weihao Zeng, Yuzhen Huang, Qian Liu, Wei Liu, Keqing He, Zejun Ma, Junxian He |<img width="1002" alt="image" src="figures/simplerl_zoo.png"> |[Github](https://github.com/hkust-nlp/simpleRL-reason) <br> [Paper](https://arxiv.org/abs/2503.18892)| [//]: #04/08
 
@@ -274,6 +276,7 @@ This repository is for our paper:
 #### Benchmarks and Datasets
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
+|[![Star](https://img.shields.io/github/stars/VisuLogic-Benchmark/VisuLogic-Eval.svg?style=social&label=Star)](https://github.com/VisuLogic-Benchmark/VisuLogic-Eval)<br>[VisuLogic: A Benchmark for Evaluating Visual Reasoning in Multi-modal Large Language Models](https://arxiv.org/abs/2504.15279) <br> Weiye Xu, Jiahao Wang, Weiyun Wang, Zhe Chen, Wengang Zhou, Aijun Yang, Lewei Lu, Houqiang Li, Xiaohua Wang, Xizhou Zhu, Wenhai Wang, Jifeng Dai, Jinguo Zhu |<img width="1002" alt="image" src="https://arxiv.org/html/2504.15279v1/x1.png"> |[Github](https://github.com/VisuLogic-Benchmark/VisuLogic-Eval) <br> [Paper](https://arxiv.org/abs/2504.15279)| [//]: #04/25
 |[LongPerceptualThoughts: Distilling System-2 Reasoning for System-1 Perception](https://arxiv.org/abs/2504.15362) <br> Yuan-Hong Liao, Sven Elflein, Liu He, Laura Leal-Taixé, Yejin Choi, Sanja Fidler, David Acuna |<img width="1002" alt="image" src="https://arxiv.org/html/2504.15362v1/x1.png"> |[Paper](https://arxiv.org/abs/2504.15362)| [//]: #04/23
 |[THOUGHTTERMINATOR: Benchmarking, Calibrating, and Mitigating Overthinking in Reasoning Models](https://arxiv.org/abs/2504.13367) <br> Xiao Pu, Michael Saxon, Wenyue Hua, William Yang Wang |<img width="1002" alt="image" src="https://arxiv.org/html/2504.13367v1/x2.png"> |[Paper](https://arxiv.org/abs/2504.13367)| [//]: #04/21
 |[Do NOT Think That Much for 2+3=? On the Overthinking of o1-Like LLMs](https://arxiv.org/abs/2412.21187) <br> Xingyu Chen, Jiahao Xu, Tian Liang, Zhiwei He, Jianhui Pang, Dian Yu, Linfeng Song, Qiuzhi Liu, Mengfei Zhou, Zhuosheng Zhang, Rui Wang, Zhaopeng Tu, Haitao Mi, Dong Yu |<img width="1002" alt="image" src="https://arxiv.org/html/2412.21187v2/x2.png"> |[Paper](https://arxiv.org/abs/2412.21187)|[//]: #03/16
@@ -303,6 +306,10 @@ This repository is for our paper:
 |[Thinking Machines: A Survey of LLM based Reasoning Strategies](https://arxiv.org/abs/2503.10814) <br> Dibyanayan Bandyopadhyay, Soham Bhattacharjee, Asif Ekbal |<img width="1002" alt="image" src="https://arxiv.org/html/2503.10814v1/x1.png"> |[Paper](https://arxiv.org/abs/2503.10814)| [//]: #04/08
 |[![Star](https://img.shields.io/github/stars/zzli2022/Awesome-System2-Reasoning-LLM.svg?style=social&label=Star)](https://github.com/zzli2022/Awesome-System2-Reasoning-LLM)<br>[From System 1 to System 2: A Survey of Reasoning Large Language Models](https://arxiv.org/abs/2502.17419) <br> Zhong-Zhi Li, Duzhen Zhang, Ming-Liang Zhang, Jiaxin Zhang, Zengyan Liu, Yuxuan Yao, Haotian Xu, Junhao Zheng, Pei-Jie Wang, Xiuyi Chen, Yingying Zhang, Fei Yin, Jiahua Dong, Zhijiang Guo, Le Song, Cheng-Lin Liu |<img width="1002" alt="image" src="https://arxiv.org/html/2502.17419v2/extracted/6232702/images/timeline.png"> |[Github](https://github.com/zzli2022/Awesome-System2-Reasoning-LLM) <br> [Paper](https://arxiv.org/abs/2502.17419)| [//]: #04/08
 
+
+### Competition
+
+*  [![Publish](https://img.shields.io/badge/Competition-AIMO_2-yellow)]() [![Star](https://img.shields.io/github/stars/NVIDIA/NeMo-Skills.svg?style=social&label=Star)](https://github.com/NVIDIA/NeMo-Skills) [AIMO-2 Winning Solution: Building State-of-the-Art Mathematical Reasoning Models with OpenMathReasoning dataset](https://arxiv.org/abs/2504.16891). Ivan Moshkov, Darragh Hanley, Ivan Sorokin, Shubham Toshniwal, Christof Henkel, Benedikt Schifferer, Wei Du, Igor Gitman. [[Paper]](https://arxiv.org/abs/2504.16891)[[Github]](https://github.com/NVIDIA/NeMo-Skills)
 
 
 ## Acknowledgement
