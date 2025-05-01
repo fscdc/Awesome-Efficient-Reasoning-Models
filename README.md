@@ -18,7 +18,7 @@
 
 <div align="center">
 
-**[<a href="https://arxiv.org/abs/2504.10903">arXiv</a>]** **[<a href="https://huggingface.co/papers/2504.10903">HuggingFace</a>]**
+**[<a href="https://arxiv.org/abs/2504.10903">arXiv</a>]** **[<a href="https://huggingface.co/papers/2504.10903">HuggingFace</a>]** **[<a href="https://x.com/si_feng32704/status/1912378179718901843">X</a>]**
 
 </div>
 
@@ -46,7 +46,7 @@ This repository is for our paper:
 ## Updates
 
 - 2025-04-16: 📝 The survey is now available on [arXiv](https://arxiv.org/abs/2504.10903)!
-- 2025-04-11: 📚 The full paper list is now available and our survey is coming soon!
+- 2025-04-11: 📚 The full paper list is now available, and our survey is coming soon!
 - 2025-03-16: 🚀 Efficient Reasoning Repo launched!
 
 
