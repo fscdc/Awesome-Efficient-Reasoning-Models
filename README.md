@@ -45,6 +45,7 @@ This repository is for our paper:
 
 ## Updates
 
+- 2025-05-18: 🎉 We open a new section about efficient [multimodal reasoning methods](#efficient-multimodal-reasoning)!
 - 2025-04-16: 📝 The survey is now available on [arXiv](https://arxiv.org/abs/2504.10903)!
 - 2025-04-11: 📚 The full paper list is now available, and our survey is coming soon!
 - 2025-03-16: 🚀 Efficient Reasoning Repo launched!
@@ -75,6 +76,7 @@ This repository is for our paper:
   - [Let Decoding More Efficient](#Let-Decoding-More-Efficient)
     - [Efficient TTS](#Efficient-TTS)
     - [Other Optimal Methods](#Other-Optimal-Methods)
+  - [Efficient Multimodal Reasoning](#Efficient-Multimodal-Reasoning)
   - [Evaluation and Benchmarks](#Evaluation-and-Benchmarks)
   - [Background Papers](#Background-Papers)
   - [Competition](#Competition)
@@ -278,6 +280,17 @@ This repository is for our paper:
 |[![Star](https://img.shields.io/github/stars/thu-wyz/inference_scaling.svg?style=social&label=Star)](https://github.com/thu-wyz/inference_scaling) [![Publish](https://img.shields.io/badge/Conference-ICLR_2025-blue)]()<br>[Inference Scaling Laws: An Empirical Analysis of Compute-Optimal Inference for Problem-Solving with Language Models](https://arxiv.org/abs/2408.00724) <br> Yangzhen Wu, Zhiqing Sun, Shanda Li, Sean Welleck, Yiming Yang |<img width="1002" alt="image" src="figures/scaling_law.png"> |[Github](https://github.com/thu-wyz/inference_scaling) <br> [Paper](https://arxiv.org/abs/2408.00724)| [//]: #04/08
 |[![Star](https://img.shields.io/github/stars/CMU-AIRe/MRT.svg?style=social&label=Star)](https://github.com/CMU-AIRe/MRT)<br>[Optimizing Test-Time Compute via Meta Reinforcement Fine-Tuning](https://arxiv.org/abs/2503.07572) <br> Yuxiao Qu, Matthew Y. R. Yang, Amrith Setlur, Lewis Tunstall, Edward Emanuel Beeching, Ruslan Salakhutdinov, Aviral Kumar |<img width="1002" alt="image" src="figures/mrt.png"> |[Github](https://github.com/CMU-AIRe/MRT) <br> [Paper](https://arxiv.org/abs/2503.07572)| [//]: #04/08
 |[![Star](https://img.shields.io/github/stars/ruipeterpan/specreason.svg?style=social&label=Star)](https://github.com/ruipeterpan/specreason)<br>[SpecReason: Fast and Accurate Inference-Time Compute via Speculative Reasoning](https://arxiv.org/abs/2504.07891) <br> Rui Pan, Yinwei Dai, Zhihao Zhang, Gabriele Oliaro, Zhihao Jia, Ravi Netravali |<img width="1002" alt="image" src="figures/specreason.png"> |[Github](https://github.com/ruipeterpan/specreason) <br> [Paper](https://arxiv.org/abs/2504.07891)| [//]: #04/14
+
+
+
+### Efficient Multimodal Reasoning
+| Title & Authors | Introduction | Links |
+|:--|  :----: | :---:|
+|[MilChat: Introducing Chain of Thought Reasoning and GRPO to a Multimodal Small Language Model for Remote Sensing](https://arxiv.org/abs/2505.07984) <br> Aybora Koksal, A. Aydin Alatan |<img width="1002" alt="image" src="https://arxiv.org/html/2505.07984v1/extracted/6432707/figures/sample_sam.png"> |[Paper](https://arxiv.org/abs/2505.07984)| [//]: #05/17
+|[![Star](https://img.shields.io/github/stars/CodeGoat24/UnifiedReward.svg?style=social&label=Star)](https://github.com/CodeGoat24/UnifiedReward)<br>[Unified Multimodal Chain-of-Thought Reward Model through Reinforcement Fine-Tuning](https://arxiv.org/abs/2505.03318) <br> Yibin Wang, Zhimin Li, Yuhang Zang, Chunyu Wang, Qinglin Lu, Cheng Jin, Jiaqi Wang |<img width="1002" alt="image" src="figures/umrf.png"> |[Github](https://github.com/CodeGoat24/UnifiedReward) <br> [Paper](https://arxiv.org/abs/2505.03318)| [//]: #05/17
+|[![Star](https://img.shields.io/github/stars/Quinn777/AtomThink.svg?style=social&label=Star)](https://github.com/Quinn777/AtomThink)<br>[Can Atomic Step Decomposition Enhance the Self-structured Reasoning of Multimodal Large Models?](https://arxiv.org/abs/2503.06252) <br> Kun Xiang, Zhili Liu, Zihao Jiang, Yunshuang Nie, Kaixin Cai, Yiyang Yin, Runhui Huang, Haoxiang Fan, Hanhui Li, Weiran Huang, Yihan Zeng, Yu-Jie Yuan, Jianhua Han, Lanqing Hong, Hang Xu, Xiaodan Liang |<img width="1002" alt="image" src="figures/atom.png"> |[Github](https://github.com/Quinn777/AtomThink) <br> [Paper](https://arxiv.org/abs/2503.06252)| [//]: #04/08
+
+
 
 ### Evaluation and Benchmarks
 
