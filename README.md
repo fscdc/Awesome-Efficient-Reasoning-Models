@@ -259,7 +259,7 @@ This repository is for our paper:
 #### Other Optimal Methods
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
-|[![Star](https://img.shields.io/github/stars/LYC127/RPG.svg?style=social&label=Star)](https://github.com/LYC127/RPG) [![Publish](https://img.shields.io/badge/Conference-ACL_main-blue)]()<br>[Rethinking Repetition Problems of LLMs in Code Generation](https://arxiv.org/abs/2505.10402) <br> Yihong Dong, Yuchen Liu, Xue Jiang, Zhi Jin, Ge Li |<img width="1002" alt="image" src="figures/code_repeat.png"> |[Github](https://github.com/LYC127/RPG) <br> [Paper](https://arxiv.org/abs/2505.10402)| [//]: #05/18
+|[![Star](https://img.shields.io/github/stars/LYC127/RPG.svg?style=social&label=Star)](https://github.com/LYC127/RPG) [![Publish](https://img.shields.io/badge/Conference-ACL_main_2025-blue)]()<br>[Rethinking Repetition Problems of LLMs in Code Generation](https://arxiv.org/abs/2505.10402) <br> Yihong Dong, Yuchen Liu, Xue Jiang, Zhi Jin, Ge Li |<img width="1002" alt="image" src="figures/code_repeat.png"> |[Github](https://github.com/LYC127/RPG) <br> [Paper](https://arxiv.org/abs/2505.10402)| [//]: #05/18
 |[Accelerating Chain-of-Thought Reasoning: When Goal-Gradient Importance Meets Dynamic Skipping](https://arxiv.org/abs/2505.08392) <br> Ren Zhuang, Ben Wang, Shuifa Sun |<img width="1002" alt="image" src="https://arxiv.org/html/2505.08392v1/x1.png"> |[Paper](https://arxiv.org/abs/2505.08392)| [//]: #05/17
 |[![Star](https://img.shields.io/github/stars/zch65458525/L2T.svg?style=social&label=Star)](https://github.com/zch65458525/L2T) [![Publish](https://img.shields.io/badge/Conference-IJCAI-blue)]()<br>[Learn to Think: Bootstrapping LLM Reasoning Capability Through Graph Learning](https://arxiv.org/abs/2505.06321) <br> Hang Gao, Chenhao Zhang, Tie Wang, Junsuo Zhao, Fengge Wu, Changwen Zheng, Huaping Liu |<img width="1002" alt="image" src="figures/learn2think.png"> |[Github](https://github.com/zch65458525/L2T) <br> [Paper](https://arxiv.org/abs/2505.06321)| [//]: #05/17
 |[![Star](https://img.shields.io/github/stars/hammoudhasan/SubthoughtReasoner.svg?style=social&label=Star)](https://github.com/hammoudhasan/SubthoughtReasoner)<br>[Beyond the Last Answer: Your Reasoning Trace Uncovers More than You Think](https://arxiv.org/abs/2504.20708) <br> Hasan Abed Al Kader Hammoud, Hani Itani, Bernard Ghanem |<img width="1002" alt="image" src="figures/beyond_last.png"> |[Github](https://github.com/hammoudhasan/SubthoughtReasoner) <br> [Paper](https://arxiv.org/abs/2504.20708)|[//]: #05/02
@@ -291,6 +291,21 @@ This repository is for our paper:
 |[![Star](https://img.shields.io/github/stars/Quinn777/AtomThink.svg?style=social&label=Star)](https://github.com/Quinn777/AtomThink)<br>[Can Atomic Step Decomposition Enhance the Self-structured Reasoning of Multimodal Large Models?](https://arxiv.org/abs/2503.06252) <br> Kun Xiang, Zhili Liu, Zihao Jiang, Yunshuang Nie, Kaixin Cai, Yiyang Yin, Runhui Huang, Haoxiang Fan, Hanhui Li, Weiran Huang, Yihan Zeng, Yu-Jie Yuan, Jianhua Han, Lanqing Hong, Hang Xu, Xiaodan Liang |<img width="1002" alt="image" src="figures/atom.png"> |[Github](https://github.com/Quinn777/AtomThink) <br> [Paper](https://arxiv.org/abs/2503.06252)| [//]: #04/08
 
 
+
+
+#### Background Papers
+
+| Title & Authors | Introduction | Links |
+|:--|  :----: | :---:|
+| [![Publish](https://img.shields.io/badge/Conference-ACL_findings_2025-blue)]()<br>[MathCoder-VL: Bridging Vision and Code for Enhanced Multimodal Mathematical Reasoning](https://arxiv.org/abs/2505.10557) <br> Ke Wang, Junting Pan, Linda Wei, Aojun Zhou, Weikang Shi, Zimu Lu, Han Xiao, Yunqiao Yang, Houxing Ren, Mingjie Zhan, Hongsheng Li |<img width="1002" alt="image" src="https://arxiv.org/html/2505.10557v1/x1.png"> |[Paper](https://arxiv.org/abs/2505.10557)| [//]: #05/18
+|[![Star](https://img.shields.io/github/stars/ChengJade/VISTAR.svg?style=social&label=Star)](https://github.com/ChengJade/VISTAR)<br>[Visually Interpretable Subtask Reasoning for Visual Question Answering](https://arxiv.org/abs/2505.08084) <br> Yu Cheng, Arushi Goel, Hakan Bilen |<img width="1002" alt="image" src="https://arxiv.org/html/2505.08084v1/x1.png"> |[Github](https://github.com/ChengJade/VISTAR) <br> [Paper](https://arxiv.org/abs/2505.08084)| [//]: #05/18
+|[![Star](https://img.shields.io/github/stars/shiqichen17/VLM_Merging.svg?style=social&label=Star)](https://github.com/shiqichen17/VLM_Merging) [![Publish](https://img.shields.io/badge/Conference-ICML_2025-blue)]()<br>[Bring Reason to Vision: Understanding Perception and Reasoning through Model Merging](https://arxiv.org/abs/2505.05464) <br> Shiqi Chen, Jinghan Zhang, Tongyao Zhu, Wei Liu, Siyang Gao, Miao Xiong, Manling Li, Junxian He |<img width="1002" alt="image" src="https://arxiv.org/html/2505.05464v1/x1.png"> |[Github](https://github.com/shiqichen17/VLM_Merging) <br> [Paper](https://arxiv.org/abs/2505.05464)| [//]: #05/18
+|[![Star](https://img.shields.io/github/stars/SkyworkAI/Skywork-R1V.svg?style=social&label=Star)](https://github.com/SkyworkAI/Skywork-R1V)<br>[Skywork R1V2: Multimodal Hybrid Reinforcement Learning for Reasoning](https://arxiv.org/abs/2504.16656) <br> Chris, Yichen Wei, Yi Peng, Xiaokun Wang, Weijie Qiu, Wei Shen, Tianyidan Xie, Jiangbo Pei, Jianhao Zhang, Yunzhuo Hao, Xuchen Song, Yang Liu, Yahui Zhou |<img width="1002" alt="image" src="https://arxiv.org/html/2504.16656v2/extracted/6389842/figure/ssb_diagram.png"> |[Github](https://github.com/SkyworkAI/Skywork-R1V) <br> [Paper](https://arxiv.org/abs/2504.16656)| [//]: #04/29
+
+
+###### Technical Report
+
+* [Seed1.5-VL Technical Report](https://arxiv.org/abs/2505.07062). seed team. [[Paper]](https://arxiv.org/abs/2505.07062)
 
 ### Evaluation and Benchmarks
 
