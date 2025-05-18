@@ -45,7 +45,9 @@ This repository is for our paper:
 
 ## Updates
 
+
 - 2025-05-18: 🎉 We open a new section about efficient [multimodal reasoning methods](#efficient-multimodal-reasoning)!
+- 2025-05-16: 🎉 Two-month milestone! Special thanks to [VainF](https://github.com/VainF), [horseee](https://github.com/horseee), [CHEN1594](https://github.com/CHEN1594), [ZhenyuSun-Walker](https://github.com/ZhenyuSun-Walker), [xianzuwu](https://github.com/xianzuwu)!
 - 2025-04-16: 📝 The survey is now available on [arXiv](https://arxiv.org/abs/2504.10903)!
 - 2025-04-11: 📚 The full paper list is now available, and our survey is coming soon!
 - 2025-03-16: 🚀 Efficient Reasoning Repo launched!
