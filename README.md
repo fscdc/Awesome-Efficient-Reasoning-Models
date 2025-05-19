@@ -46,7 +46,7 @@ This repository is for our paper:
 ## Updates
 
 
-- 2025-05-18: 🎉 We open a new section about efficient [multimodal reasoning methods](#efficient-multimodal-reasoning)!
+- 2025-05-18: 🎉 We open a new section about [efficient multimodal reasoning methods](#efficient-multimodal-reasoning)!
 - 2025-05-16: 🎉 Two-month milestone! Special thanks to [VainF](https://github.com/VainF), [horseee](https://github.com/horseee), [CHEN1594](https://github.com/CHEN1594), [ZhenyuSun-Walker](https://github.com/ZhenyuSun-Walker), [xianzuwu](https://github.com/xianzuwu)!
 - 2025-04-16: 📝 The survey is now available on [arXiv](https://arxiv.org/abs/2504.10903)!
 - 2025-04-11: 📚 The full paper list is now available, and our survey is coming soon!
@@ -162,6 +162,7 @@ This repository is for our paper:
 #### Latent Reasoning
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
+|[![Star](https://img.shields.io/github/stars/xuyige/SoftCoT.svg?style=social&label=Star)](https://github.com/xuyige/SoftCoT)<br>[SoftCoT++: Test-Time Scaling with Soft Chain-of-Thought Reasoning](https://arxiv.org/abs/2505.11484) <br> Yige Xu, Xu Guo, Zhiwei Zeng, Chunyan Miao |<img width="1002" alt="image" src="https://arxiv.org/html/2505.11484v1/x1.png"> |[Github](https://github.com/xuyige/SoftCoT) <br> [Paper](https://arxiv.org/abs/2505.11484)| [//]: #05/19
 |[Beyond Chains of Thought: Benchmarking Latent-Space Reasoning Abilities in Large Language Models](https://arxiv.org/abs/2504.10615) <br> Thilo Hagendorff, Sarah Fabi |<img width="1002" alt="image" src="./figures/BCoT.png"> |[Paper](https://arxiv.org/abs/2504.10615)|[//]: #04/17
 |[Distilling System 2 into System 1](https://arxiv.org/abs/2407.06023) <br> Ping Yu, Jing Xu, Jason Weston, Ilia Kulikov |<img width="1002" alt="image" src="figures/distill_sys1_sys2.png"> |[Paper](https://arxiv.org/abs/2407.06023)|[//]: #03/16
 |[![Star](https://img.shields.io/github/stars/da03/implicit_chain_of_thought.svg?style=social&label=Star)](https://github.com/da03/implicit_chain_of_thought/)<br>[Implicit Chain of Thought Reasoning via Knowledge Distillation](https://arxiv.org/abs/2311.01460) <br> Yuntian Deng, Kiran Prasad, Roland Fernandez, Paul Smolensky, Vishrav Chaudhary, Stuart Shieber |<img width="1002" alt="image" src="figures/explicit2implicit.png"> |[Github](https://github.com/da03/implicit_chain_of_thought/) <br> [Paper](https://arxiv.org/abs/2311.01460)| [//]: #04/08
@@ -261,6 +262,7 @@ This repository is for our paper:
 #### Other Optimal Methods
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
+|[Group Think: Multiple Concurrent Reasoning Agents Collaborating at Token Level Granularity](https://arxiv.org/abs/2505.11107) <br> Chan-Jan Hsu, Davide Buffelli, Jamie McGowan, Feng-Ting Liao, Yi-Chang Chen, Sattar Vakili, Da-shan Shiu |<img width="1002" alt="image" src="https://arxiv.org/html/2505.11107v1/extracted/6445446/figures/gt_main_new.png"> |[Paper](https://arxiv.org/abs/2505.11107)| [//]: #05/19
 |[![Star](https://img.shields.io/github/stars/LYC127/RPG.svg?style=social&label=Star)](https://github.com/LYC127/RPG) [![Publish](https://img.shields.io/badge/Conference-ACL_main_2025-blue)]()<br>[Rethinking Repetition Problems of LLMs in Code Generation](https://arxiv.org/abs/2505.10402) <br> Yihong Dong, Yuchen Liu, Xue Jiang, Zhi Jin, Ge Li |<img width="1002" alt="image" src="figures/code_repeat.png"> |[Github](https://github.com/LYC127/RPG) <br> [Paper](https://arxiv.org/abs/2505.10402)| [//]: #05/18
 |[Accelerating Chain-of-Thought Reasoning: When Goal-Gradient Importance Meets Dynamic Skipping](https://arxiv.org/abs/2505.08392) <br> Ren Zhuang, Ben Wang, Shuifa Sun |<img width="1002" alt="image" src="https://arxiv.org/html/2505.08392v1/x1.png"> |[Paper](https://arxiv.org/abs/2505.08392)| [//]: #05/17
 |[![Star](https://img.shields.io/github/stars/zch65458525/L2T.svg?style=social&label=Star)](https://github.com/zch65458525/L2T) [![Publish](https://img.shields.io/badge/Conference-IJCAI-blue)]()<br>[Learn to Think: Bootstrapping LLM Reasoning Capability Through Graph Learning](https://arxiv.org/abs/2505.06321) <br> Hang Gao, Chenhao Zhang, Tie Wang, Junsuo Zhao, Fengge Wu, Changwen Zheng, Huaping Liu |<img width="1002" alt="image" src="figures/learn2think.png"> |[Github](https://github.com/zch65458525/L2T) <br> [Paper](https://arxiv.org/abs/2505.06321)| [//]: #05/17
@@ -295,10 +297,11 @@ This repository is for our paper:
 
 
 
-#### Background Papers
+###### Background Papers
 
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
+|[Visual Planning: Let's Think Only with Images](https://arxiv.org/abs/2505.11409) <br> Yi Xu, Chengzu Li, Han Zhou, Xingchen Wan, Caiqi Zhang, Anna Korhonen, Ivan Vulić |<img width="1002" alt="image" src="https://arxiv.org/html/2505.11409v1/x2.png"> |[Paper](https://arxiv.org/abs/2505.11409)| [//]: #05/19
 |[![Star](https://img.shields.io/github/stars/microsoft/x-reasoner.svg?style=social&label=Star)](https://github.com/microsoft/x-reasoner)<br>[X-Reasoner: Towards Generalizable Reasoning Across Modalities and Domains](https://arxiv.org/abs/2505.03981) <br> Qianchu Liu, Sheng Zhang, Guanghui Qin, Timothy Ossowski, Yu Gu, Ying Jin, Sid Kiblawi, Sam Preston, Mu Wei, Paul Vozila, Tristan Naumann, Hoifung Poon |<img width="1002" alt="image" src="https://arxiv.org/html/2505.03981v1/x1.png"> |[Github](https://github.com/microsoft/x-reasoner) <br> [Paper](https://arxiv.org/abs/2505.03981)| [//]: #05/18
 |[Skywork-VL Reward: An Effective Reward Model for Multimodal Understanding and Reasoning](https://arxiv.org/abs/2505.07263) <br> Xiaokun Wang, Chris, Jiangbo Pei, Wei Shen, Yi Peng, Yunzhuo Hao, Weijie Qiu, Ai Jian, Tianyidan Xie, Xuchen Song, Yang Liu, Yahui Zhou |<img width="1002" alt="image" src="https://arxiv.org/html/2505.07263v1/extracted/6430395/figure/distribution.png"> |[Paper](https://arxiv.org/abs/2505.07263)| [//]: #05/18
 | [![Publish](https://img.shields.io/badge/Conference-ACL_findings_2025-blue)]()<br>[MathCoder-VL: Bridging Vision and Code for Enhanced Multimodal Mathematical Reasoning](https://arxiv.org/abs/2505.10557) <br> Ke Wang, Junting Pan, Linda Wei, Aojun Zhou, Weikang Shi, Zimu Lu, Han Xiao, Yunqiao Yang, Houxing Ren, Mingjie Zhan, Hongsheng Li |<img width="1002" alt="image" src="https://arxiv.org/html/2505.10557v1/x1.png"> |[Paper](https://arxiv.org/abs/2505.10557)| [//]: #05/18
@@ -310,6 +313,7 @@ This repository is for our paper:
 ###### Technical Report
 
 * [Seed1.5-VL Technical Report](https://arxiv.org/abs/2505.07062). seed team. [[Paper]](https://arxiv.org/abs/2505.07062)
+
 
 ### Evaluation and Benchmarks
 
@@ -329,6 +333,7 @@ This repository is for our paper:
 #### Benchmarks and Datasets
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
+|[Reasoning with OmniThought: A Large CoT Dataset with Verbosity and Cognitive Difficulty Annotations](https://arxiv.org/abs/2505.10937) <br> Wenrui Cai, Chengyu Wang, Junbing Yan, Jun Huang, Xiangzhong Fang |<img width="1002" alt="image" src="https://arxiv.org/html/2505.10937v1/extracted/6444682/fig1-v2.png"> |[Paper](https://arxiv.org/abs/2505.10937)| [//]: #05/19
 |[StoryReasoning Dataset: Using Chain-of-Thought for Scene Understanding and Grounded Story Generation](https://arxiv.org/abs/2505.10292) <br> Daniel A. P. Oliveira, David Martins de Matos |<img width="1002" alt="image" src="figures/story.png"> |[Paper](https://arxiv.org/abs/2505.10292)| [//]: #05/17
 |[![Star](https://img.shields.io/github/stars/alibaba-damo-academy/VCBench.svg?style=social&label=Star)](https://github.com/alibaba-damo-academy/VCBench)<br>[Benchmarking Multimodal Mathematical Reasoning with Explicit Visual Dependency](https://arxiv.org/abs/2504.18589) <br> Zhikai Wang, Jiashuo Sun, Wenqi Zhang, Zhiqiang Hu, Xin Li, Fan Wang, Deli Zhao |<img width="1002" alt="image" src="https://arxiv.org/html/2504.18589v1/x1.png"> |[Github](https://github.com/alibaba-damo-academy/VCBench) <br> [Paper](https://arxiv.org/abs/2504.18589)| [//]: #04/29
 |[![Star](https://img.shields.io/github/stars/Goodman-liyu/CipherBank.svg?style=social&label=Star)](https://github.com/Goodman-liyu/CipherBank)<br>[CipherBank: Exploring the Boundary of LLM Reasoning Capabilities through Cryptography Challenges](https://arxiv.org/abs/2504.19093) <br> Yu Li, Qizhi Pei, Mengyuan Sun, Honglin Lin, Chenlin Ming, Xin Gao, Jiang Wu, Conghui He, Lijun Wu |<img width="1002" alt="image" src="https://arxiv.org/html/2504.19093v1/x2.png"> |[Github](https://github.com/Goodman-liyu/CipherBank) <br> [Paper](https://arxiv.org/abs/2504.19093)| [//]: #04/29
