@@ -108,6 +108,7 @@ This repository is for our paper:
 #### RL-based Methods
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
+|[![Star](https://img.shields.io/github/stars/VainF/Thinkless.svg?style=social&label=Star)](https://github.com/VainF/Thinkless)<br>[Thinkless: LLM Learns When to Think](https://arxiv.org/abs/2505.13379) <br> Gongfan Fang, Xinyin Ma, Xinchao Wang |<img width="1002" alt="image" src="https://arxiv.org/html/2505.13379v1/x1.png"> |[Github](https://github.com/VainF/Thinkless) <br> [Paper](https://arxiv.org/abs/2505.13379)| [//]: #05/20
 |[Learning to Think: Information-Theoretic Reinforcement Fine-Tuning for LLMs](https://arxiv.org/abs/2505.10425) <br> Jingyao Wang, Wenwen Qiang, Zeen Song, Changwen Zheng, Hui Xiong |<img width="1002" alt="image" src="https://arxiv.org/html/2505.10425v1/x1.png"> |[Paper](https://arxiv.org/abs/2505.10425)| [//]: #05/18
 |[MilChat: Introducing Chain of Thought Reasoning and GRPO to a Multimodal Small Language Model for Remote Sensing](https://arxiv.org/abs/2505.07984) <br> Aybora Koksal, A. Aydin Alatan |<img width="1002" alt="image" src="https://arxiv.org/html/2505.07984v1/extracted/6432707/figures/sample_sam.png"> |[Paper](https://arxiv.org/abs/2505.07984)| [//]: #05/17
 |[Scalable Chain of Thoughts via Elastic Reasoning](https://arxiv.org/abs/2505.05315) <br> Yuhui Xu, Hanze Dong, Lei Wang, Doyen Sahoo, Junnan Li, Caiming Xiong |<img width="1002" alt="image" src="https://arxiv.org/html/2505.05315v1/x2.png"> |[Paper](https://arxiv.org/abs/2505.05315)| [//]: #05/17
