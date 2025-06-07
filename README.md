@@ -264,6 +264,7 @@ This repository is for our paper:
 #### Efficient TTS
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
+|[Accelerated Test-Time Scaling with Model-Free Speculative Sampling](https://arxiv.org/abs/2506.04708) <br> Woomin Song, Saket Dingliwal, Sai Muralidhar Jayanthi, Bhavana Ganesh, Jinwoo Shin, Aram Galstyan, Sravan Babu Bodapati |<img width="1002" alt="image" src="figures/stand.png"> |[Paper](https://arxiv.org/abs/2506.04708)|[//]: #06/05
 |[Learning to Rank Chain-of-Thought: An Energy-Based Approach with Outcome Supervision](https://arxiv.org/abs/2505.14999) <br> Eric Hanchen Jiang, Haozheng Luo, Shengyuan Pang, Xiaomin Li, Zhenting Qi, Hengli Li, Cheng-Fu Yang, Zongyu Lin, Xinfeng Li, Hao Xu, Kai-Wei Chang, Ying Nian Wu |<img width="1002" alt="image" src="figures/eorm.png"> |[Paper](https://arxiv.org/abs/2505.14999)| [//]: #05/22
 |[Rethinking Optimal Verification Granularity for Compute-Efficient Test-Time Scaling](https://arxiv.org/abs/2505.11730) <br> Hao Mark Chen, Guanxi Lu, Yasuyuki Okoshi, Zhiwen Mo, Masato Motomura, Hongxiang Fan |<img width="1002" alt="image" src="https://arxiv.org/html/2505.11730v1/x5.png"> |[Paper](https://arxiv.org/abs/2505.11730)| [//]: #05/22
 |[Reward Reasoning Model](https://arxiv.org/abs/2505.14674) <br> Jiaxin Guo, Zewen Chi, Li Dong, Qingxiu Dong, Xun Wu, Shaohan Huang, Furu Wei |<img width="1002" alt="image" src="figures/rrm.png"> |[Paper](https://arxiv.org/abs/2505.14674)| [//]: #05/22
