@@ -268,6 +268,7 @@ This repository is for our paper:
 #### Efficient TTS
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
+|[Let Me Think! A Long Chain-of-Thought Can Be Worth Exponentially Many Short Ones](https://arxiv.org/abs/2505.21825) <br> Parsa Mirtaheri, Ezra Edelman, Samy Jelassi, Eran Malach, Enric Boix-Adsera |<img width="1002" alt="image" src="https://arxiv.org/html/2505.21825v1/x1.png"> |[Paper](https://arxiv.org/abs/2505.21825)| [//]: #06/11
 |[Don't Overthink it. Preferring Shorter Thinking Chains for Improved LLM Reasoning](https://arxiv.org/abs/2505.17813) <br> Michael Hassid, Gabriel Synnaeve, Yossi Adi, Roy Schwartz |<img width="1002" alt="image" src="https://arxiv.org/html/2505.17813v1/x1.png"> |[Paper](https://arxiv.org/abs/2505.17813)| [//]: #06/11
 |[![Star](https://img.shields.io/github/stars/kaiwenw/value-guided-search.svg?style=social&label=Star)](https://github.com/kaiwenw/value-guided-search)<br>[Value-Guided Search for Efficient Chain-of-Thought Reasoning](https://arxiv.org/abs/2505.17373) <br> Kaiwen Wang, Jin Peng Zhou, Jonathan Chang, Zhaolin Gao, Nathan Kallus, Kianté Brantley, Wen Sun |<img width="1002" alt="image" src="https://arxiv.org/html/2505.17373v1/x2.png"> |[Github](https://github.com/kaiwenw/value-guided-search) <br> [Paper](https://arxiv.org/abs/2505.17373)| [//]: #06/11
 |[Accelerated Test-Time Scaling with Model-Free Speculative Sampling](https://arxiv.org/abs/2506.04708) <br> Woomin Song, Saket Dingliwal, Sai Muralidhar Jayanthi, Bhavana Ganesh, Jinwoo Shin, Aram Galstyan, Sravan Babu Bodapati |<img width="1002" alt="image" src="figures/stand.png"> |[Paper](https://arxiv.org/abs/2506.04708)|[//]: #06/05
@@ -345,6 +346,7 @@ This repository is for our paper:
 
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
+|[Understand, Think, and Answer: Advancing Visual Reasoning with Large Multimodal Models](https://arxiv.org/abs/2505.20753) <br> Yufei Zhan, Hongyin Zhao, Yousong Zhu, Shurong Zheng, Fan Yang, Ming Tang, Jinqiao Wang |<img width="1002" alt="image" src="https://arxiv.org/html/2505.20753v1/x1.png"> |[Paper](https://arxiv.org/abs/2505.20753)| [//]: #06/11
 |[Point-RFT: Improving Multimodal Reasoning with Visually Grounded Reinforcement Finetuning](https://arxiv.org/abs/2505.19702) <br> Minheng Ni, Zhengyuan Yang, Linjie Li, Chung-Ching Lin, Kevin Lin, Wangmeng Zuo, Lijuan Wang |<img width="1002" alt="image" src="https://arxiv.org/html/2505.19702v1/x1.png"> |[Paper](https://arxiv.org/abs/2505.19702)| [//]: #06/11
 |[Ground-R1: Incentivizing Grounded Visual Reasoning via Reinforcement Learning](https://arxiv.org/abs/2505.20272) <br> Meng Cao, Haoze Zhao, Can Zhang, Xiaojun Chang, Ian Reid, Xiaodan Liang |<img width="1002" alt="image" src="https://arxiv.org/html/2505.20272v1/x1.png"> |[Paper](https://arxiv.org/abs/2505.20272)| [//]: #06/11
 |[SATORI-R1: Incentivizing Multimodal Reasoning with Spatial Grounding and Verifiable Rewards](https://arxiv.org/abs/2505.19094) <br> Chuming Shen, Wei Wei, Xiaoye Qu, Yu Cheng |<img width="1002" alt="image" src="figures/sato.png"> |[Paper](https://arxiv.org/abs/2505.19094)| [//]: #06/11
