@@ -283,6 +283,7 @@ This repository is for our paper:
 #### Efficient TTS
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
+|[Inference-Time Hyper-Scaling with KV Cache Compression](https://arxiv.org/abs/2506.05345) <br> Adrian Łańcucki, Konrad Staniszewski, Piotr Nawrot, Edoardo M. Ponti |<img width="1002" alt="image" src="https://arxiv.org/html/2506.05345v1/x2.png"> |[Paper](https://arxiv.org/abs/2506.05345)| [//]:
 |[Control-R: Towards controllable test-time scaling](https://arxiv.org/abs/2506.00189) <br> Di Zhang, Weida Wang, Junxian Li, Xunzhi Wang, Jiatong Li, Jianbo Wu, Jingdi Lei, Haonan He, Peng Ye, Shufei Zhang, Wanli Ouyang, Yuqiang Li, Dongzhan Zhou |<img width="1002" alt="image" src="https://arxiv.org/html/2506.00189v1/x1.png"> |[Paper](https://arxiv.org/abs/2506.00189)| [//]: #06/13
 |[Plan and Budget: Effective and Efficient Test-Time Scaling on Large Language Model Reasoning](https://arxiv.org/abs/2505.16122) <br> Junhong Lin, Xinyue Zeng, Jie Zhu, Song Wang, Julian Shun, Jun Wu, Dawei Zhou |<img width="1002" alt="image" src="figures/bbam.png"> |[Paper](https://arxiv.org/abs/2505.16122)| [//]: #06/13
 |[First Finish Search: Efficient Test-Time Scaling in Large Language Models](https://arxiv.org/abs/2505.18149) <br> Aradhye Agarwal, Ayan Sengupta, Tanmoy Chakraborty |<img width="1002" alt="image" src="figures/FFS.png"> |[Paper](https://arxiv.org/abs/2505.18149)| [//]: #06/13
