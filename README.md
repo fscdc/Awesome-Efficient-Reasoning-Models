@@ -530,7 +530,7 @@ This repository is inspired by [Awesome-Efficient-LLM](https://github.com/horsee
 ## Citation
 
 ```bibtex
-@article{,
+@article{feng2025efficient,
     title={Efficient Reasoning Models: A Survey},
     author={Feng, Sicheng and Fang, Gongfan and Ma, Xinyin and Wang, Xinchao},
     journal={arXiv preprint arXiv:2504.10903},
