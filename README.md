@@ -328,6 +328,7 @@ This repository is for our paper:
 #### Other Optimal Methods
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
+|[![Star](https://img.shields.io/github/stars/ArminAzizi98/ASC.svg?style=social&label=Star)](https://github.com/ArminAzizi98/ASC)<br>[Activation Steering for Chain-of-Thought Compression](https://arxiv.org/abs/2507.04742) <br> Seyedarmin Azizi, Erfan Baghaei Potraghloo, Massoud Pedram |<img width="1002" alt="image" src="figures/asc_2.png"> |[Github](https://github.com/ArminAzizi98/ASC) <br> [Paper](https://arxiv.org/abs/2507.04742)| [//]: #07/12
 |[Scaling Speculative Decoding with Lookahead Reasoning](https://arxiv.org/abs/2506.19830) <br> Yichao Fu, Rui Ge, Zelei Shao, Zhijie Deng, Hao Zhang |<img width="1002" alt="image" src="https://arxiv.org/html/2506.19830v1/extracted/6567712/figure/LookaheadReasoningStep.jpg"> |[Paper](https://arxiv.org/abs/2506.19830)| [//]: #07/01
 |[Wait, We Don't Need to 'Wait'! Removing Thinking Tokens Improves Reasoning Efficiency](https://arxiv.org/abs/2506.08343) <br> Chenlong Wang, Yuanning Feng, Dongping Chen, Zhaoyang Chu, Ranjay Krishna, Tianyi Zhou |<img width="1002" alt="image" src="https://arxiv.org/html/2506.08343v2/x1.png"> |[Paper](https://arxiv.org/abs/2506.08343)| [//]: #06/24
 |[Steering LLM Thinking with Budget Guidance](https://arxiv.org/abs/2506.13752) <br> Junyan Li, Wenshuo Zhao, Yang Zhang, Chuang Gan |<img width="1002" alt="image" src="https://arxiv.org/html/2506.13752v1/x2.png"> |[Paper](https://arxiv.org/abs/2506.13752)| [//]: #06/23
