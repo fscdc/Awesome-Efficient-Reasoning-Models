@@ -45,6 +45,7 @@ This repository is for our paper:
 
 ## Updates
 
+- 2025-09-16: 🎉 Our survey has been accepted by TMLR!
 - 2025-05-24: 🚀 We present a fine-grained visual reasoning benchmark - [ReasonMap](https://fscdc.github.io/Reason-Map/)!
 - 2025-05-18: 🎉 We open a new section about [efficient multimodal reasoning methods](#efficient-multimodal-reasoning)!
 - 2025-05-16: 🎉 Two-month milestone! Special thanks to [VainF](https://github.com/VainF), [horseee](https://github.com/horseee), [CHEN1594](https://github.com/CHEN1594), [ZhenyuSun-Walker](https://github.com/ZhenyuSun-Walker), [xianzuwu](https://github.com/xianzuwu)!
