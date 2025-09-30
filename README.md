@@ -299,6 +299,7 @@ This repository is for our paper:
 #### Efficient TTS
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
+|[From Long to Short: LLMs Excel at Trimming Own Reasoning Chains](https://arxiv.org/abs/2509.06174) <br> Wei Han, Geng Zhan, Sicheng Yu, Chenyu Wang, Bryan Hooi |<img width="1002" alt="image" src="figures/l2s.png"> |[Paper](https://arxiv.org/abs/2509.06174)| [//]: #09/30
 |[Deep Think with Confidence](https://arxiv.org/abs/2508.15260) <br> Yichao Fu, Xuewei Wang, Yuandong Tian, Jiawei Zhao |<img width="1002" alt="image" src="https://arxiv.org/html/2508.15260v1/x3.png"> |[Paper](https://arxiv.org/abs/2508.15260)| [//]: #08/26
 |[Large Reasoning Models Know How to Think Efficiently](https://openreview.net/forum?id=pLKDeGm2t1) ![](https://img.shields.io/badge/ESFoMoIII@ICML-2025-blue) <br> Zeyu XING, Xing Li, Huiling Zhen, Xianzhi Yu, Mingxuan Yuan, Sinno Jialin Pan  |<img width="1002" alt="image" src="figures/selfthink_esfomo3_icml25.png"> |[Paper](https://openreview.net/forum?id=pLKDeGm2t1)| [//]:
 |[TrimR: Verifier-based Training-Free Thinking Compression for Efficient Test-Time Scaling](https://arxiv.org/abs/2505.17155) ![](https://img.shields.io/badge/SCALR@COLM-2025-blue) <br> Weizhe Lin, Xing Li, Zhiyuan Yang, Xiaojin Fu, Hui-Ling Zhen, Yaoyuan Wang, Xianzhi Yu, Wulong Liu, Xiaosong Li, Mingxuan Yuan  |<img width="1002" alt="image" src="figures/trimr_scalr_colm25.png"> |[Paper](https://arxiv.org/abs/2505.17155)| [//]:
@@ -341,6 +342,7 @@ This repository is for our paper:
 #### Other Optimal Methods
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
+|[Early Stopping Chain-of-thoughts in Large Language Models](https://arxiv.org/abs/2509.14004) <br> Minjia Mao, Bowen Yin, Yu Zhu, Xiao Fang |<img width="1002" alt="image" src="https://arxiv.org/html/2509.14004v1/fig/ESCoT_framework.png"> |[Paper](https://arxiv.org/abs/2509.14004)| [//]: #09/30
 |[Stop Spinning Wheels: Mitigating LLM Overthinking via Mining Patterns for Early Reasoning Exit](https://arxiv.org/abs/2508.17627) <br> Zihao Wei, Liang Pang, Jiahao Liu, Jingcheng Deng, Shicheng Xu, Zenghao Duan, Jingang Wang, Fei Sun, Xunliang Cai, Huawei Shen, Xueqi Cheng |<img width="1002" alt="image" src="https://arxiv.org/html/2508.17627v1/x1.png"> |[Paper](https://arxiv.org/abs/2508.17627)| [//]: #09/03
 |[Efficient Reasoning for Large Reasoning Language Models via Certainty-Guided Reflection Suppression](https://arxiv.org/abs/2508.05337) <br> Jiameng Huang, Baijiong Lin, Guhao Feng, Jierun Chen, Di He, Lu Hou |<img width="1002" alt="image" src="https://arxiv.org/html/2508.05337v1/imgs/case_study.png"> |[Paper](https://arxiv.org/abs/2508.05337)| [//]: #08/26
 |[![Star](https://img.shields.io/github/stars/ArminAzizi98/ASC.svg?style=social&label=Star)](https://github.com/ArminAzizi98/ASC)<br>[Activation Steering for Chain-of-Thought Compression](https://arxiv.org/abs/2507.04742) <br> Seyedarmin Azizi, Erfan Baghaei Potraghloo, Massoud Pedram |<img width="1002" alt="image" src="figures/asc_2.png"> |[Github](https://github.com/ArminAzizi98/ASC) <br> [Paper](https://arxiv.org/abs/2507.04742)| [//]: #07/12
