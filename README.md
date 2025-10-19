@@ -304,6 +304,7 @@ This repository is for our paper:
 #### Efficient TTS
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
+|[Retrieval-of-Thought: Efficient Reasoning via Reusing Thoughts](https://arxiv.org/abs/2509.21743) <br> Ammar Ahmed, Azal Ahmad Khan, Ayaan Ahmad, Sheng Di, Zirui Liu, Ali Anwar |<img width="1002" alt="image" src="https://arxiv.org/html/2509.21743v1/x1.png"> |[Paper](https://arxiv.org/abs/2509.21743)| [//]: #10/19
 |[A2R: An Asymmetric Two-Stage Reasoning Framework for Parallel Reasoning](https://arxiv.org/abs/2509.22044) <br> Ziqi Wang, Boye Niu, Zhongli Li, Linghui Meng, Jing Liu, Zhi Zheng, Tong Xu, Hua Wu, Haifeng Wang, Enhong Chen |<img width="1002" alt="image" src="https://arxiv.org/html/2509.22044v1/x1.png"> |[Paper](https://arxiv.org/abs/2509.22044)| [//]: #10/19
 |[From Long to Short: LLMs Excel at Trimming Own Reasoning Chains](https://arxiv.org/abs/2509.06174) <br> Wei Han, Geng Zhan, Sicheng Yu, Chenyu Wang, Bryan Hooi |<img width="1002" alt="image" src="figures/l2s.png"> |[Paper](https://arxiv.org/abs/2509.06174)| [//]: #09/30
 |[Deep Think with Confidence](https://arxiv.org/abs/2508.15260) <br> Yichao Fu, Xuewei Wang, Yuandong Tian, Jiawei Zhao |<img width="1002" alt="image" src="https://arxiv.org/html/2508.15260v1/x3.png"> |[Paper](https://arxiv.org/abs/2508.15260)| [//]: #08/26
