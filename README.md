@@ -79,7 +79,8 @@ This repository is for our paper:
   - [Let Decoding More Efficient](#Let-Decoding-More-Efficient)
     - [Efficient TTS](#Efficient-TTS)
     - [Other Optimal Methods](#Other-Optimal-Methods)
-  - [Efficient Multimodal Reasoning](#Efficient-Multimodal-Reasoning)
+  - [Efficient Multimodal Reasoning](#efficient-agentic-reasoning)
+  - [Efficient Agentic Reasoning](#Efficient-Agentic-Reasoning)
   - [Evaluation and Benchmarks](#Evaluation-and-Benchmarks)
   - [Background Papers](#Background-Papers)
   - [Competition](#Competition)
@@ -94,6 +95,7 @@ This repository is for our paper:
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
 |[![Star](https://img.shields.io/github/stars/horseee/CoT-Valve.svg?style=social&label=Star)](https://github.com/horseee/CoT-Valve)<br>[CoT-Valve: Length-Compressible Chain-of-Thought Tuning](https://arxiv.org/abs/2502.09601) <br> Xinyin Ma, Guangnian Wan, Runpeng Yu, Gongfan Fang, Xinchao Wang |<img width="1002" alt="image" src="figures/cot_valve.png"> |[Github](https://github.com/horseee/CoT-Valve) <br> [Paper](https://arxiv.org/abs/2502.09601)|[//]: #03/16
+|[Flexible Realignment of Language Models](https://arxiv.org/abs/2506.12704) <br> Wenhong Zhu, Ruobing Xie, Weinan Zhang, Rui Wang |<img width="1002" alt="image" src="figures/inra.png"> |[Paper](https://arxiv.org/abs/2506.12704)| [//]: #10/30
 |[From Long to Lean: Performance-aware and Adaptive Chain-of-Thought Compression via Multi-round Refinement](https://www.arxiv.org/abs/2509.22144) <br> Jianzhi Yan, Le Liu, Youcheng Pan, Shiwei Chen, Zike Yuan, Yang Xiang, Buzhou Tang |<img width="1002" alt="image" src="https://arxiv.org/html/2509.22144v1/x2.png"> |[Paper](https://www.arxiv.org/abs/2509.22144)| [//]: #10/19
 |[![Star](https://img.shields.io/github/stars/LWL-cpu/Question-Free-Fine-Tuning.svg?style=social&label=Star)](https://github.com/LWL-cpu/Question-Free-Fine-Tuning)<br>[QFFT, Question-Free Fine-Tuning for Adaptive Reasoning](https://arxiv.org/abs/2506.12860) <br> Wanlong Liu, Junxiao Xu, Fei Yu, Yukang Lin, Ke Ji, Wenyu Chen, Yan Xu, Yasheng Wang, Lifeng Shang, Benyou Wang |<img width="1002" alt="image" src="figures/qfft.png"> |[Github](https://github.com/LWL-cpu/Question-Free-Fine-Tuning) <br> [Paper](https://arxiv.org/abs/2506.12860)| [//]: #06/24
 |[OThink-R1: Intrinsic Fast/Slow Thinking Mode Switching for Over-Reasoning Mitigation](https://arxiv.org/abs/2506.02397) <br> Shengjia Zhang, Junjie Wu, Jiawei Chen, Changwang Zhang, Xingyu Lou, Wangchunshu Zhou, Sheng Zhou, Can Wang, Jun Wang |<img width="1002" alt="image" src="figures/othink.png"> |[Paper](https://arxiv.org/abs/2506.02397)| [//]: #06/13
@@ -123,6 +125,9 @@ This repository is for our paper:
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
 |[![Star](https://img.shields.io/github/stars/VainF/Thinkless.svg?style=social&label=Star)](https://github.com/VainF/Thinkless)<br>[Thinkless: LLM Learns When to Think](https://arxiv.org/abs/2505.13379) <br> Gongfan Fang, Xinyin Ma, Xinchao Wang |<img width="1002" alt="image" src="https://arxiv.org/html/2505.13379v1/x1.png"> |[Github](https://github.com/VainF/Thinkless) <br> [Paper](https://arxiv.org/abs/2505.13379)| [//]: #05/20
+|[Rethinking Thinking Tokens: LLMs as Improvement Operators](https://arxiv.org/abs/2510.01123) <br> Lovish Madaan, Aniket Didolkar, Suchin Gururangan, John Quan, Ruan Silva, Ruslan Salakhutdinov, Manzil Zaheer, Sanjeev Arora, Anirudh Goyal |<img width="1002" alt="image" src="https://arxiv.org/html/2510.01123v1/x2.png"> |[Paper](https://arxiv.org/abs/2510.01123)| [//]: #10/30
+|[Thinking-Free Policy Initialization Makes Distilled Reasoning Models More Effective and Efficient Reasoners](https://arxiv.org/abs/2509.26226) <br> Xin Xu, Cliveb AI, Kai Yang, Tianhao Chen, Yang Wang, Saiyong Yang, Can Yang |<img width="1002" alt="image" src="https://arxiv.org/html/2509.26226v1/x2.png"> |[Paper](https://arxiv.org/abs/2509.26226)| [//]: #10/30
+|[SIRI: Scaling Iterative Reinforcement Learning with Interleaved Compression](https://arxiv.org/abs/2509.25176) <br> Haoming Wen, Yushi Bai, Juanzi Li, Jie Tang |<img width="1002" alt="image" src="https://arxiv.org/html/2509.25176v1/x1.png"> |[Paper](https://arxiv.org/abs/2509.25176)| [//]: #10/30
 |[Your Models Have Thought Enough: Training Large Reasoning Models to Stop Overthinking](https://arxiv.org/abs/2509.23392) <br> Jinyi Han, Ying Huang, Ying Liao, Zishang Jiang, Xikun Lu, Haiquan Zhao, Xinyi Wang, Guanghao Zhou, Sihang Jiang, Jiaqing Liang, Weikang Zhou, Zeye Sun, Fei Yu, Yanghua Xiao |<img width="1002" alt="image" src="https://arxiv.org/html/2509.23392v2/x2.png"> |[Paper](https://arxiv.org/abs/2509.23392)| [//]: #10/19
 |[Beyond Token Length: Step Pruner for Efficient and Accurate Reasoning in Large Language Models](https://arxiv.org/abs/2510.03805) <br> Canhui Wu, Qiong Cao, Chang Li, Zhenfang Wang, Chao Xue, Yuwei Fan, Wei Xi, Xiaodong He |<img width="1002" alt="image" src="https://arxiv.org/html/2510.03805v1/fig/intro.png"> |[Paper](https://arxiv.org/abs/2510.03805)| [//]: #10/11
 |[![Star](https://img.shields.io/github/stars/Optimization-AI/DRPO.svg?style=social&label=Star)](https://github.com/Optimization-AI/DRPO)<br>[DRPO: Efficient Reasoning via Decoupled Reward Policy Optimization](https://arxiv.org/abs/2510.04474) <br> Gang Li, Yan Chen, Ming Lin, Tianbao Yang |<img width="1002" alt="image" src="https://arxiv.org/html/2510.04474v1/x1.png"> |[Github](https://github.com/Optimization-AI/DRPO) <br> [Paper](https://arxiv.org/abs/2510.04474)| [//]: #10/11
@@ -304,6 +309,7 @@ This repository is for our paper:
 #### Efficient TTS
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
+|[Intra-request branch orchestration for efficient LLM reasoning](https://arxiv.org/abs/2509.24957) <br> Weifan Jiang, Rana Shahout, Yilun Du, Michael Mitzenmacher, Minlan Yu |<img width="1002" alt="image" src="https://arxiv.org/html/2509.24957v1/x1.png"> |[Paper](https://arxiv.org/abs/2509.24957)| [//]: #10/30
 |[Retrieval-of-Thought: Efficient Reasoning via Reusing Thoughts](https://arxiv.org/abs/2509.21743) <br> Ammar Ahmed, Azal Ahmad Khan, Ayaan Ahmad, Sheng Di, Zirui Liu, Ali Anwar |<img width="1002" alt="image" src="https://arxiv.org/html/2509.21743v1/x1.png"> |[Paper](https://arxiv.org/abs/2509.21743)| [//]: #10/19
 |[A2R: An Asymmetric Two-Stage Reasoning Framework for Parallel Reasoning](https://arxiv.org/abs/2509.22044) <br> Ziqi Wang, Boye Niu, Zhongli Li, Linghui Meng, Jing Liu, Zhi Zheng, Tong Xu, Hua Wu, Haifeng Wang, Enhong Chen |<img width="1002" alt="image" src="https://arxiv.org/html/2509.22044v1/x1.png"> |[Paper](https://arxiv.org/abs/2509.22044)| [//]: #10/19
 |[From Long to Short: LLMs Excel at Trimming Own Reasoning Chains](https://arxiv.org/abs/2509.06174) <br> Wei Han, Geng Zhan, Sicheng Yu, Chenyu Wang, Bryan Hooi |<img width="1002" alt="image" src="figures/l2s.png"> |[Paper](https://arxiv.org/abs/2509.06174)| [//]: #09/30
@@ -349,6 +355,7 @@ This repository is for our paper:
 #### Other Optimal Methods
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
+|[Entropy After ⟨/𝚃𝚑𝚒𝚗𝚔⟩ for reasoning model early exiting](https://arxiv.org/abs/2509.26522) <br> Xi Wang, James McInerney, Lequn Wang, Nathan Kallus |<img width="1002" alt="image" src="https://arxiv.org/html/2509.26522v1/x1.png"> |[Paper](https://arxiv.org/abs/2509.26522)| [//]: #10/30
 |[SpecExit: Accelerating Large Reasoning Model via Speculative Exit](https://arxiv.org/abs/2509.24248) <br> Rubing Yang, Huajun Bai, Song Liu, Guanghua Yu, Runzhi Fan, Yanbin Dang, Jiejing Zhang, Kai Liu, Jianchen Zhu, Peng Chen |<img width="1002" alt="image" src="https://arxiv.org/html/2509.24248v1/x3.png"> |[Paper](https://arxiv.org/abs/2509.24248)| [//]: #10/19
 |[SPEC-RL: Accelerating On-Policy Reinforcement Learning via Speculative Rollouts](https://arxiv.org/abs/2509.23232) <br> Bingshuai Liu, Ante Wang, Zijun Min, Liang Yao, Haibo Zhang, Yang Liu, Anxiang Zeng, Jinsong Su |<img width="1002" alt="image" src="https://arxiv.org/html/2509.23232v1/x3.png"> |[Paper](https://arxiv.org/abs/2509.23232)| [//]: #10/19
 |[FastGRPO: Accelerating Policy Optimization via Concurrency-aware Speculative Decoding and Online Draft Learning](https://arxiv.org/abs/2509.21792) <br> Yizhou Zhang, Ning Lv, Teng Wang, Jisheng Dang |<img width="1002" alt="image" src="https://arxiv.org/html/2509.21792v1/x1.png"> |[Paper](https://arxiv.org/abs/2509.21792)| [//]: #10/19
@@ -414,6 +421,7 @@ This repository is for our paper:
 
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
+|[Uni-cot: Towards Unified Chain-of-Thought Reasoning Across Text and Vision](https://arxiv.org/abs/2508.05606) <br> Luozheng Qin, Jia Gong, Yuqing Sun, Tianjiao Li, Mengping Yang, Xiaomeng Yang, Chao Qu, Zhiyu Tan, Hao Li |<img width="1002" alt="image" src="https://arxiv.org/html/2508.05606v2/x1.png"> |[Paper](https://arxiv.org/abs/2508.05606)| [//]: #10/30
 |[![Star](https://img.shields.io/github/stars/fscdc/RewardMap.svg?style=social&label=Star)](https://github.com/fscdc/RewardMap)<br>[RewardMap: Tackling Sparse Rewards in Fine-grained Visual Reasoning via Multi-Stage Reinforcement Learning](https://arxiv.org/abs/2510.02240) <br> Sicheng Feng, Kaiwen Tuo, Song Wang, Lingdong Kong, Jianke Zhu, Huan Wang |<img width="1002" alt="image" src="https://arxiv.org/html/2510.02240v1/x2.png"> |[Github](https://github.com/fscdc/RewardMap) <br> [Paper](https://arxiv.org/abs/2510.02240)| [//]: #10/19
 |[Uni-cot: Towards Unified Chain-of-Thought Reasoning Across Text and Vision](https://arxiv.org/abs/2508.05606) <br> Luozheng Qin, Jia Gong, Yuqing Sun, Tianjiao Li, Mengping Yang, Xiaomeng Yang, Chao Qu, Zhiyu Tan, Hao Li |<img width="1002" alt="image" src="https://arxiv.org/html/2508.05606v1/x1.png"> |[Paper](https://arxiv.org/abs/2508.05606)| [//]: #08/09
 |[![Star](https://img.shields.io/github/stars/L-O-I/RRVF.svg?style=social&label=Star)](https://github.com/L-O-I/RRVF)<br>[Learning Only with Images: Visual Reinforcement Learning with Reasoning, Rendering, and Visual Feedback](https://arxiv.org/abs/2507.20766) <br> Yang Chen, Yufan Shen, Wenxuan Huang, Sheng Zhou, Qunshu Lin, Xinyu Cai, Zhi Yu, Jiajun Bu, Botian Shi, Yu Qiao |<img width="1002" alt="image" src="https://arxiv.org/html/2507.20766v4/x1.png"> |[Github](https://github.com/L-O-I/RRVF) <br> [Paper](https://arxiv.org/abs/2507.20766)| [//]: #08/09
@@ -466,6 +474,14 @@ This repository is for our paper:
 ###### Technical Report
 
 * [Seed1.5-VL Technical Report](https://arxiv.org/abs/2505.07062). seed team. [[Paper]](https://arxiv.org/abs/2505.07062)
+
+
+### Efficient Agentic Reasoning
+
+| Title & Authors | Introduction | Links |
+|:--|  :----: | :---:|
+|[ThinkBrake: Mitigating Overthinking in Tool Reasoning](https://arxiv.org/abs/2510.00546) <br> Minjae Oh, Sangjun Song, Seungkyu Lee, Sungmin Jo, Yohan Jo |<img width="1002" alt="image" src="https://arxiv.org/html/2510.00546v2/x1.png"> |[Paper](https://arxiv.org/abs/2510.00546)| [//]: #10/30
+
 
 
 ### Evaluation and Benchmarks
