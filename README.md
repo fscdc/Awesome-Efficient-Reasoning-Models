@@ -45,6 +45,7 @@ This repository is for our paper:
 
 ## Updates
 
+- 2025-10-30: 🚀 We open a new section about [efficient agentic reasoning](#efficient-agentic-reasoning)! Welcome merge your papers!
 - 2025-09-16: 🎉 Our survey has been accepted by TMLR!
 - 2025-05-24: 🚀 We present a fine-grained visual reasoning benchmark - [ReasonMap](https://fscdc.github.io/Reason-Map/)!
 - 2025-05-18: 🎉 We open a new section about [efficient multimodal reasoning methods](#efficient-multimodal-reasoning)!
