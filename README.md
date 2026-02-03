@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h2><b> Efficient Reasoning Models: A Survey </b></h2>
+  <h2><b> [TMLR 2025] Efficient Reasoning Models: A Survey </b></h2>
   <h4> An overview of research in efficient reasoning models</h4>
 
 </div>
