@@ -168,7 +168,7 @@ This repository is for our paper:
 |[Adaptive Group Policy Optimization: Towards Stable Training and Token-Efficient Reasoning](https://arxiv.org/abs/2503.15952) <br> Chen Li, Nazhou Liu, Kai Yang |<img width="1002" alt="image" src="figures/agpo.png"> |[Paper](https://arxiv.org/abs/2503.15952)| [//]: #04/08
 |[![Star](https://img.shields.io/github/stars/UCSB-NLP-Chang/ThinkPrune.svg?style=social&label=Star)](https://github.com/UCSB-NLP-Chang/ThinkPrune)<br>[ThinkPrune: Pruning Long Chain-of-Thought of LLMs via Reinforcement Learning](https://arxiv.org/abs/2504.01296) <br> Bairu Hou, Yang Zhang, Jiabao Ji, Yujian Liu, Kaizhi Qian, Jacob Andreas, Shiyu Chang |<img width="1002" alt="image" src="https://arxiv.org/html/2504.01296v1/x1.png"> |[Github](https://github.com/UCSB-NLP-Chang/ThinkPrune) <br> [Paper](https://arxiv.org/abs/2504.01296)| [//]: #04/08
 |[Think When You Need: Self-Adaptive Chain-of-Thought Learning](https://arxiv.org/abs/2504.03234) <br> Junjie Yang, Ke Lin, Xing Yu |<img width="1002" alt="image" src="https://arxiv.org/html/2504.03234v1/extracted/6335120/alg_illu.png"> |[Paper](https://arxiv.org/abs/2504.03234)| [//]: #04/08
-
+|[The Art of Efficient Reasoning: Data, Reward, and Optimization](https://arxiv.org/pdf/2602.20945) <br> Taiqiang Wu, Zenan Xu, Bo Zhou, Ngai Wong |<img width="1002" alt="image" src="https://arxiv.org/html/2602.20945v2/x1.png"> |[Project](https://wutaiqiang.github.io/project/Art) [Weights](https://huggingface.co/collections/taki555/the-art-of-efficient-reasoning)| [//]: #04/08
 
 
 #### Prompt-driven Methods
