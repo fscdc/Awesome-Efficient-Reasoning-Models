@@ -211,6 +211,7 @@ This repository is for our paper:
 #### Latent Reasoning
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
+|[Multiplex Thinking: Reasoning via Token-wise Branch-and-Merge](https://arxiv.org/abs/2601.08808) <br> Yao Tang, Li Dong, Yaru Hao, Qingxiu Dong, Furu Wei, Jiatao Gu |<img width="1002" alt="image" src="https://github.com/GMLR-Penn/Multiplex-Thinking/raw/main/figs/teaser.png"> |[Paper](https://arxiv.org/abs/2601.08808)| [//]: #3/9
 |[SwiReasoning: Switch-Thinking in Latent and Explicit for Pareto-Superior Reasoning LLMs](https://arxiv.org/abs/2510.05069) <br> Dachuan Shi, Abedelkadir Asi, Keying Li, Xiangchi Yuan, Leyan Pan, Wenke Lee, Wen Xiao |<img width="1002" alt="image" src="figures/swireasoning.png"> |[Paper](https://arxiv.org/abs/2510.05069)| [//]: #10/19
 |[LLMs are Single-threaded Reasoners: Demystifying the Working Mechanism of Soft Thinking](https://arxiv.org/abs/2508.03440) <br> Chünhung Wu, Jinliang Lu, Zixuan Ren, Gangqiang Hu, Zhi Wu, Dai Dai, Hua Wu |<img width="1002" alt="image" src="figures/soft_thinking.png"> |[Paper](https://arxiv.org/abs/2508.03440)| [//]: #08/09
 |[CTRLS: Chain-of-Thought Reasoning via Latent State-Transition](https://arxiv.org/abs/2507.08182) <br> Junda Wu, Yuxin Xiong, Xintong Li, Zhengmian Hu, Tong Yu, Rui Wang, Xiang Chen, Jingbo Shang, Julian McAuley |<img width="1002" alt="image" src="https://arxiv.org/html/2507.08182v1/x1.png"> |[Paper](https://arxiv.org/abs/2507.08182)| [//]: #07/19
